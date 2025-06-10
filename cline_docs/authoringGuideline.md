@@ -9,6 +9,12 @@
 - **No Headings:** Do not create any subordinate headings (H2, H3, scene break markers, Roman numerals, etc.)
 - **Scene Transitions:** Indicate scene changes with transitional prose or a blank line, never with a heading
 
+### Chapter Endings and Continuity
+- **Avoid Summarizing:** Do not end chapters with summaries of what happened or what was learned
+- **Emotionally Impactful Endings:** Aim for each chapter to end on an emotionally impactful note—think cliffhanger, revelation, or meaningful resolution
+- **Seamless Transitions:** Make each chapter pick up seamlessly from where the previous chapter left off, maintaining narrative flow
+- **Outline Fidelity:** Before marking a chapter as completed, ensure that all events specified in the chapter outline are included faithfully
+
 ### Foreshadowing
 - **Restraint Principle:** A little foreshadowing goes a long way—use sparingly and subtly
 - **Single Hints:** Prefer one well-placed hint over multiple obvious references
@@ -440,6 +446,9 @@ Chapter outlines serve as coherent narrative scripts that guide chapter writers 
 - Are transitions between sections smooth and logical?
 
 ## Religious Terminology Guidelines
+
+### CRITICAL: Maximum Subtlety Required
+**This is extremely important**: Religious/transcendent descriptions must be maximally subtle. Phrases like "half-closed eyes, slight upward curve of the lips, complete relaxation of every line of tension" are too obviously Buddha-like and must be avoided. The goal is to convey the same peaceful, transcendent atmosphere through universal human experiences that don't immediately evoke specific religious imagery.
 
 ### Core Principle: Show, Don't Tell
 Never use explicit religious terminology or make obvious parallels to specific religious traditions. Instead, convey transcendent and spiritual themes through universal human experiences, physical descriptions, and atmospheric details.

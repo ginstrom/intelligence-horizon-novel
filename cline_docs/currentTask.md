@@ -1,13 +1,18 @@
 ## Current Objective
-Integrate minimal-foreshadowing rule into authoring guidelines
+Add specific authoring instructions to authoringGuideline.md
 
 ## Context
-User feedback: "Update your rules to go easy on the foreshadowing. Remind yourself that a little foreshadowing really goes a long way."
+User requested adding four specific instructions to the authoring guidelines:
+- Avoid summarizing at the end of chapters
+- Aim for each chapter to end on an emotionally impactful note (cliffhanger or resolution)
+- Make each chapter pick up seamlessly from where the previous chapter left off
+- Before marking a chapter as completed, ensure all outline events are included faithfully
 
-This requires updating the authoring guidelines to emphasize restraint with foreshadowing techniques throughout the novel.
+## Planned Actions
+1. Add the four requested instructions to the appropriate section in authoringGuideline.md
+2. Integrate them naturally with existing chapter structure guidelines
+3. Ensure they align with current pacing and narrative structure principles
 
 ## Next Steps
-1. Add foreshadowing guidelines to authoringGuideline.md under Narrative Structure
-2. Update chapterAuthoringWorkflow.md to include foreshadowing checks in revision process
-3. Optionally add reminder to chapterOutline.md guidelines
-4. Update projectRoadmap.md with completed task
+1. Update authoringGuideline.md with the new instructions
+2. Consider how these guidelines apply to current chapter writing workflow

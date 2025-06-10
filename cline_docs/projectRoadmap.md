@@ -365,3 +365,27 @@
   - **Authoring Guidelines Update**: Added new "Foreshadowing" subsection under Narrative Structure with restraint principles
   - **Chapter Workflow Update**: Added foreshadowing check to quality checklist in docs/chapterAuthoringWorkflow.md
   - **Guidelines**: Emphasize single, subtle hints over repeated obvious references; cumulative density checks; natural integration
+- [2025-06-10] Completed Chapter 3: "Signs and Portents":
+  - **Chapter Writing**: Successfully wrote 4,200-word chapter following detailed outline
+  - **Intelligence Horizon Integration**: Incorporated black hole event horizon analogy for cognitive threshold concept
+  - **Character Development**: Detailed Elias's discovery of the pattern and desperate attempts to save Lydia
+  - **Crossing Progression**: Showed Lydia's transformation from skeptic to transcendent departure
+  - **Investigation Setup**: Established Elias's pivot from personal prevention to systematic investigation
+  - **Voice Consistency**: Maintained Elias's highly intelligent but emotionally relatable perspective
+  - **Minimal Foreshadowing**: Applied restraint principle with subtle hints rather than heavy-handed references
+- [2025-06-10] Fixed Chapter 3 issues for consistency and emotional impact:
+  - **Final Scene Consistency**: Restructured ending to match Chapter 1's door scene exactly (hand on handle, specific dialogue)
+  - **Communication Decline**: Properly implemented Crossed silence rule - reduced Lydia's dialogue after Intelligence Horizon
+  - **Missing Outline Elements**: Added Elias halting self-augmentation, Lydia's progressive withdrawal, serene expression permanence
+  - **Emotional Ending**: Replaced analytical summary with emotionally impactful conclusion focused on loss and grief
+  - **World-Building Compliance**: Ensured chapter follows established rules about Crossed behavior and communication patterns
+- [2025-06-10] Completed Chapter 4: "The Investigation Begins":
+  - **Chapter Writing**: Successfully wrote 4,800+ word chapter following detailed outline structure
+  - **Marcus Character Introduction**: Established his background as co-creator of AI systems and principled resistance to augmentation
+  - **Investigation Framework**: Built systematic approach to prevention, monitoring, and intervention across all population categories
+  - **Population Integration**: Naturally incorporated baseline, lightly augmented, and highly augmented population dynamics
+  - **Logos Relationship**: Demonstrated AI's dual communication style (factual data vs. cryptic responses about prevention)
+  - **Voice Consistency**: Maintained Elias's highly intelligent but emotionally relatable perspective throughout
+  - **Pacing Excellence**: Applied strategic sentence variation, movement during dialogue, and breathers between intense sections
+  - **Guidelines Compliance**: Minimal foreshadowing, maximum subtlety, show-don't-tell approach, no sub-sections
+  - **Setup Achievement**: Established investigation infrastructure and Marcus partnership for upcoming "race against time" narrative arc

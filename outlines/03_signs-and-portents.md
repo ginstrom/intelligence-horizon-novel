@@ -61,13 +61,3 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    E. The approaching inevitability of her Crossing
    F. Elias's terror at witnessing something beyond his understanding
    G. Questions about the nature of voluntary departure from loved ones
-
-## VIII. The Strategic Pivot and Investigation Begins
-   A. Elias accepts the inevitability of Crossing once the Intelligence Horizon is passed
-   B. Shifts his efforts to convincing others to stop augmenting before reaching the Horizon
-   C. Launches broader investigation to understand Crossing sufficiently to accept or change its circumstances
-   D. His determination to save others and prevent the elimination of augmented humanity
-   E. The beginning of his race against time to find solutions
-   F. Elias's systematic study of the Crossing phenomenon intensifies
-   G. Attempts to communicate with augmented individuals at various stages of enhancement
-   H. Setting up his future role as investigator and eventual creator of Eden
