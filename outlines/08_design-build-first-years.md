@@ -28,7 +28,7 @@ Following Marcus's Crossing and the complete failure of his investigation, Elias
 
 ## III. Survey of Remaining Humanity and the Choice of Service
    A. Using his new abilities, Elias conducts a comprehensive assessment of what remains of human civilization
-   B. He discovers the population structure that will define his future stewardship: several billion baseline humans living in communities across the globe, and several million lightly augmented humans who have not yet progressed past the Intelligence Horizon
+   B. He discovers the population structure that will define his future stewardship: about two billion baseline humans living in communities across the globe, and about two billion lightly augmented humans who have not yet progressed past the Intelligence Horizon
    C. From his enhanced perspective, the lightly augmented are nearly indistinguishable from baseline humans in their fundamental humanity
    D. Elias realizes that without intervention, the lightly augmented will eventually face the same choice that consumed all highly augmented individuals - continue progressing toward Crossing or find an alternative path
    E. Confronting his new status as the most powerful conscious entity on Earth, he makes the fundamental decision that will define his future: he chooses service over dominion, preservation over control
@@ -64,7 +64,7 @@ Following Marcus's Crossing and the complete failure of his investigation, Elias
    C. The message is honest about Eden's rules and restrictions while appealing to those seeking escape from the augmentation cycle
    D. Responses begin arriving from families, communities, and individuals who have chosen sanctuary over the uncertain path of continued augmentation
    E. Most lightly augmented humans, recognizing the danger of progressing toward the Intelligence Horizon, eagerly accept the opportunity
-   F. Elias coordinates the logistics of bringing thousands of people to Eden while maintaining the sanctuary's hidden nature
+   F. Elias coordinates the logistics of bringing billions of people to Eden while maintaining the sanctuary's hidden nature
 
 ## VIII. First Arrivals and Community Integration
    A. Groups of humans begin arriving at Eden's borders, their wonder evident as they witness the perfect landscape Elias has created

@@ -23,7 +23,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    E. Setting up comprehensive monitoring systems to track augmentation levels across all populations
    F. Elias's discovery that the threat extends beyond highly augmented individuals
    G. Statistical analysis revealing that even lightly augmented humans eventually progress past the Intelligence Horizon
-   H. Understanding the population structure: billions baseline, millions lightly augmented, tens of thousands highly augmented
+   H. Understanding the population structure: two billion baseline, two billion lightly augmented, another two billion highly augmented
 
 ## II. The Prevention Campaign Design
    A. Elias develops early warning systems to identify those approaching dangerous thresholds

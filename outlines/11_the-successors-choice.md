@@ -66,7 +66,7 @@ The final chapter is narrated by the Successor - the newly augmented individual 
 ## IX. The Weight of Understanding
    A. I struggle to comprehend the magnitude of what I've learned and the responsibility I've inherited
    B. I understand that I now possess the power to maintain Eden, destroy it, transform it, or create something entirely new
-   C. The knowledge that thousands of enhanced individuals before me all chose transcendent departure feels overwhelming
+   C. The knowledge that thousands of enhanced individuals before me all chose Crossing feels overwhelming
    D. I am potentially the only consciousness capable of breaking a pattern that has held for over a million years
    E. My choice will determine not just my own fate but the future of all remaining humanity
    F. The terrible burden of knowledge and the isolation that comes with being the only one who understands the complete truth settles over me

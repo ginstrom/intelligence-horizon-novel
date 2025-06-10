@@ -37,6 +37,9 @@
 - **Lonely:** Increasingly isolated as peers Cross over
 - **Responsible:** Eventually accepts burden of stewardship
 - **Guilt Kept Implicit:** No extended hand-wringing or prolonged guilt monologues; guilt appears only in subtle asides embedded in otherwise direct narration
+- **Augmentation Mentions:** Reference Elias's enhancements only when they materially affect events or perception. Avoid repetitive self-descriptions such as "my amplified mind" or "echoing in my enhanced consciousness."
+- **Enhancement Reference Cap:** Any reference to Elias's enhancement (e.g., "my enhanced mind," "enhanced consciousness," "enhanced reflexes," "enhanced senses") may appear **no more than once per chapter**. If mentioned, it must serve a clear narrative function (perception shift, physical feat, etc.). Avoid further synonyms or paraphrases within the same chapter.
+  —This single-mention rule supersedes all earlier guidance on augmentation references.
 
 #### Tone Guidelines:
 - **Wonder and Terror:** Balance awe at capabilities with dread of consequences
@@ -337,7 +340,7 @@ Read passages aloud to identify rhythm problems:
 - **Invisible Integration:** Technology works seamlessly in background
 - **Avoid Technobabble:** Focus on effects and implications, not mechanisms
 - **Human Impact:** Always relate technology to human experience
-- **Augmentation Effects:** Show cognitive enhancement through perspective shifts
+- **When Relevant: Augmentation Effects:** Show cognitive enhancement through perspective shifts
 
 ### Handling Intelligence Differences:
 - **Perspective Shifts:** Show how Elias perceives baseline humans

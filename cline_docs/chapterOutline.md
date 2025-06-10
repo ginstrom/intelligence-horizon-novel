@@ -310,7 +310,7 @@ Following Lydia's Crossing and his strategic pivot, Elias launches his systemati
 - **First Failures:** Early cases where his intervention attempts fail to prevent Crossings, including lightly augmented individuals
 - **Marcus's Resistance:** His friend's principled rejection of augmentation, believing it dangerous
 - **Research Partnership:** Working together to understand the phenomenon they helped create
-- **Time Pressure:** Growing awareness that more people are approaching dangerous thresholds, including the millions of lightly augmented
+- **Time Pressure:** Growing awareness that more people are approaching dangerous thresholds, including the billions of lightly augmented
 - **Investigation Methods:** Elias's scientific approach to studying the Crossing phenomenon across the entire augmentation spectrum
 
 ### Thematic Focus
@@ -546,7 +546,7 @@ Following Marcus's Crossing and the complete failure of his investigation, Elias
 
 - **III. Survey of Remaining Humanity and the Choice of Service**
   - Using his new abilities, Elias conducts a comprehensive assessment of what remains of human civilization
-  - He discovers the population structure that will define his future stewardship: several billion baseline humans living in communities across the globe, and several million lightly augmented humans who have not yet progressed past the Intelligence Horizon
+  - He discovers the population structure that will define his future stewardship: about two billion baseline humans living in communities across the globe, and about two billion lightly augmented humans who have not yet progressed past the Intelligence Horizon
   - From his enhanced perspective, the lightly augmented are nearly indistinguishable from baseline humans in their fundamental humanity
   - Elias realizes that without intervention, the lightly augmented will eventually face the same choice that consumed all highly augmented individuals - continue progressing toward Crossing or find an alternative path
   - Confronting his new status as the most powerful conscious entity on Earth, he makes the fundamental decision that will define his future: he chooses service over dominion, preservation over control

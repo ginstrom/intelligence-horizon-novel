@@ -10,9 +10,9 @@
 **Neural Augmentation Introduction:**
 - Voluntary enhancement technology affecting cognitive and physical capabilities
 - **Population Distribution:**
-  - Several billion baseline humans (unaugmented, Earth's population having begun to shrink from its earlier peak)
-  - Several million lightly augmented humans
-  - Rest are highly augmented humans (all eventually Cross)
+  - About two billion baseline humans (unaugmented, Earth's population having begun to shrink from its earlier peak)
+  - About two billion lightly augmented humans
+  - About two billion highly augmented humans (most destined to Cross soon after novel's opening)
 - **Augmentation Categories:**
   - Light physical augmentations (health, longevity, attractiveness, specialized capabilities) - most common
   - Light cognitive augmentations - rare due to rapid progression toward Intelligence Horizon
