@@ -82,7 +82,7 @@ A metallic taste flooded my mouth. My hands trembled against my sides, fingers c
 
 There was no drama, no final words of wisdom or farewell. No explanation of what he had discovered or where he was going. Just the profound peace of someone who had found ultimate understanding and chose to embrace it completely. His body remained for a few moments, breathing slowing, then vanished in an instance.
 
-I stood alone in the workshop where we had once dreamed of creating intelligence that would serve humanity. The irony was not lost on me—we had succeeded beyond our wildest ambitions, and that success had consumed everyone capable of appreciating it.
+I stood alone in the workshop where we had once dreamed of creating intelligence that would serve humanity. You must see the irony: we had succeeded beyond our wildest ambitions, and that success had consumed everyone capable of appreciating it.
 
 With Marcus's departure, I confronted the reality of my complete isolation at the highest level of human intelligence. I was now the only highly augmented human remaining, cut off from meaningful intellectual communion with anyone who could match my perspective. The weight of this solitude was crushing, representing not just personal loss but the end of augmented humanity's potential for growth and development.
 

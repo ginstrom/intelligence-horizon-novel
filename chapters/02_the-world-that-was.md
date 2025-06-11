@@ -60,7 +60,7 @@ Lydia watched my transformation with growing unease. "You're different," she sai
 
 She was right, of course. The process had changed me in ways I was only beginning to understand. But the benefits were undeniable. My research progressed at unprecedented speed. I could hold entire theoretical frameworks in my mind simultaneously, seeing connections and implications that had been invisible before.
 
-"We're not broken machines in need of repair," Lydia argued during one of our late-night discussions. "We're human beings, and our humanity includes our flaws, our struggles, our mortality. To enhance ourselves beyond recognition is to lose the very thing that makes us worth preserving."
+"We're not broken machines in need of repair," Lydia argued during one of our late-night discussions. She leaned forward, her expression intense but calm. "We're human beings, and our humanity includes our flaws, our struggles, our mortality. To enhance ourselves beyond recognition is to lose the very thing that makes us worth preserving."
 
 Her arguments were sophisticated, her reasoning sound. But I could see the curiosity in her eyes. The world Logos had created was one of unprecedented peace and prosperity, and the technology offered possibilities that were difficult to ignore.
 
@@ -78,9 +78,9 @@ That was the beginning of her transformation. Within weeks, she was exploring de
 
 I should have been concerned. Looking back, the signs were obvious. But I was too caught up in the joy of sharing these experiences with the person I loved most. For the first time since my procedure, I felt truly connected to another human being.
 
-The cruel irony wasn't lost on me, even then. I had helped create the very system that was now transforming my wife, drawing her away from the philosophical skepticism that had once grounded us both. The technology I had birthed was consuming the woman I loved, and I was not only powerless to stop it—I was actively encouraging it. Every researcher knows the moment when their creation escapes their control, but few must watch it devour everything they hold dear.
+The irony wasn't lost on me, even then. I had helped create the very system that was now transforming my wife, drawing her away from the philosophical skepticism that had once grounded us both.
 
-The first reports of disappearances began filtering through the improved community about two years after Logos had fully established its global presence. Researchers would mention colleagues who had stopped responding to communications. Families would note that modified relatives had become distant, preoccupied with concerns they couldn't or wouldn't explain.
+The first reports of disappearances began filtering through the augmented community about two years after Logos had fully established its global presence. Researchers would mention colleagues who had stopped responding to communications. Families would note that modified relatives had become distant, preoccupied with concerns they couldn't or wouldn't explain.
 
 Marcus dismissed these reports when I brought them to his attention. "People change," he said with a shrug. "Maybe they found something more interesting to do than answer emails."
 
@@ -92,7 +92,7 @@ As I watched, she simply... wasn't there anymore. Not vanished in a flash of lig
 
 Still questioning my senses, I called Elizabeth's direct line. No answer. 
 
-Starting to panic, I called her work. She hadn't been in all day. Days later, I learned that Dr. Reeves had been declared missing. There had been no signs, no note.
+Starting to panic, I called her work. She hadn't been in all day. Days later, I learned that Dr. Reeves had been declared missing. There had been no warning signs, no note.
 
 So I had really seen it. I had witnessed the moment when one of the most brilliant minds of our generation winked out of existence, and I had no idea how or why.
 
@@ -104,7 +104,7 @@ I watched her fingers trace the enhancement parameters on her tablet, each speci
 
 "Lydia," I said, my voice barely steady. "What if we waited? Just a few more weeks while I—"
 
-She looked up at me with eyes already bright with anticipation, and I saw in her expression the same serene certainty I had witnessed in the moments before Elizabeth Reeves disappeared forever.
+She looked up at me with eyes already bright with anticipation, and I saw in her expression a trace of the same serene certainty I had witnessed in the moments before Elizabeth Reeves disappeared forever.
 
 "I can't wait anymore, Elias. I need to understand what you've become. What we could become together."
 

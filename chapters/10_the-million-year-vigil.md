@@ -28,11 +28,11 @@ Most followed the same progression. Enhancement led to expansion. Expansion led 
 
 But as the millennia accumulated, I began to see something deeper in the data. Each individual was a single point—their resistance duration plotted against the vast timeline of my vigil. Taken alone, the points seemed random, chaotic. 
 
-But when I stepped back to view the aggregate across geological time, a pattern emerged that took my breath away.
+But when I isolated the points for those who had resisted more than one month, and graphed the aggregate across geological time, a pattern emerged that took my breath away.
 
 The average resistance time rose and fell in a smooth, sinusoidal curve that spanned tens of thousands of years. Like tide-lines etched on a cliff face by forces too vast for human perception, the wave revealed itself only when viewed from the perspective of deep time. Some epochs produced individuals who Crossed within days. Others yielded minds that could resist for centuries. 
 
-The variation wasn't random. It was cyclical, predictable, beautiful in its mathematical precision.
+The variation in resistant people wasn't random. It was cyclical, predictable, beautiful in its mathematical precision.
 
 I extrapolated the curve forward, tracing its arc toward the future with the certainty that comes from witnessing patterns repeat across eons. The wave was approaching a crest—not just any crest, but the highest peak I had observed in my million-year vigil. The timing was remarkable: the apex would arrive shortly after Eden's millionth anniversary, as if the universe itself was marking the occasion.
 

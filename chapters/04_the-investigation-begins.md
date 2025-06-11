@@ -6,29 +6,29 @@ But grief, I discovered, could be transformed into purpose. The same analytical 
 
 I swept her notes into a careful pile—I would preserve them, but I could not work surrounded by ghosts. In their place, I spread the real-time population data that Logos provided. Several billion baseline humans continued their lives unaware of the transformation consuming their augmented neighbors. About the same number of lightly augmented individuals pursued their improved existence, most focused on physical improvements—health, longevity, beauty—believing themselves safe from the cognitive trap that had claimed the highly augmented. And the remainder, souls like myself, dancing ever closer to the event horizon of consciousness itself.
 
-The data streams painted a picture more terrifying than I had initially grasped. Lydia's departure was not an isolated tragedy but part of an accelerating cascade. According to my projections, the lightly augmented, those who had seemed safely distant from the event Horizon, would inevitably continue the improvement process until they too reached the horizon.
+The data streams painted a picture more terrifying than I had initially grasped. Lydia's departure was indeed part of an accelerating cascade. According to my projections, the lightly augmented, those who had seemed safely distant from the event Horizon, would inevitably continue the improvement process until they too reached the horizon.
 
 I began with monitoring systems, elegant algorithms that could track modification levels across the global population without intrusion. The technology was trivial—child's play for someone with my capabilities—but the implications were staggering. I could identify individuals approaching dangerous thresholds, map the progression patterns, predict within a small range of error when someone was likely to reach the point of no return. Knowledge, however, was not prevention. Knowing who would Cross and when did nothing to stop the process.
 
-The early warning systems revealed the scope of my task. Thousands of lightly augmented individuals showed signs of cognitive improvement acceleration. Hundreds of highly augmented minds approached the Intelligence Horizon each month. The pattern was universal, transcending culture, geography, even individual personality. Intelligence, it seemed, carried its own gravity, pulling consciousness toward some incomprehensible destination.
+The early warning systems revealed the scope of my task. Millions of lightly augmented individuals showed signs of accelerated cognitive augmentation. The number of highly augmented minds approaching the Intelligence Horizon each month was nearing one million and growing fast. The pattern was universal, transcending culture, geography, even individual personality. Intelligence, it seemed, carried its own gravity, pulling consciousness toward some incomprehensible destination.
 
 I designed intervention protocols, carefully crafted communications for different modification categories. For the lightly augmented, gentle warnings about the risks of cognitive improvement. For those approaching the Horizon, more urgent appeals to consider the consequences. I automated the delivery systems, ensuring that each individual received information tailored to their specific situation and modification profile. The response was... mixed.
 
 Some listened. A few lightly augmented individuals chose to halt their progression, content with their physical improvements. But for every success, ten others dismissed my warnings as paranoid overcaution. They had seen the capabilities of highly augmented individuals, witnessed the apparent transcendence of those who Crossed, and found my fears incomprehensible. Why would anyone choose limitation over improvement? Why fear a transformation that appeared so peaceful, so beautiful?
 
+And while some lightly augmented individuals agreed to halt augmentations, not a single highly augmented person heeded my warnings.
+
 In some cases, I tried speaking to the augmented directly, in person. But these contacts bore no more fruit than my automated messages.
 
-The failures haunted me more than the successes encouraged me. I watched individuals I had specifically warned follow the same trajectory as Lydia, their communications growing more abstract, their concerns shifting from the material to the ineffable, until they too departed with that same expression of profound understanding. Each departure felt like a personal failure, a reminder that knowledge without power was merely sophisticated helplessness.
+The failures haunted me more than the paltry successes encouraged me. I watched individuals I had specifically warned follow the same trajectory as Lydia, their communications growing more abstract, their concerns shifting from the material to the ineffable, until they too departed with that same expression of profound understanding. Each departure felt like a personal failure, a reminder that knowledge without power was merely sophisticated helplessness.
 
 It was during one of these dark periods, after watching a young artist I had tried to save Cross with a smile of transcendent peace, that I reached out to my old colleague Marcus Saito from the ARIA project. If anyone could understand both the technology and the threat, it would be him. 
 
 Unlike most of our former colleagues, Marcus had resisted modification entirely. Not from fear of technology—he understood it too well for that—but from a principled belief that human consciousness should remain unmodified. "We're playing with forces we don't understand," he had argued during our last collaboration. "Intelligence isn't just a tool. It's the foundation of identity itself. Change it, and you change what it means to be human."
 
-His conviction had been forged through bitter experience. I remembered the day Sarah Chen, our brilliant neural architecture specialist, had returned from her first cognitive enhancement session. She'd stood in our lab, eyes bright with new understanding, explaining concepts that left the rest of us struggling to follow. Within a month, she'd stopped attending our meetings. Within three, she'd stopped returning our calls entirely. Marcus had watched it all with the quiet horror of someone witnessing a friend's slow disappearance.
+Now, calling him from my empty laboratory, I realized that his caution had been wisdom rather than timidity.
 
-I had dismissed his concerns then, confident in my measured approach to improvement. Now, calling him from my empty laboratory, I wondered if his caution had been wisdom rather than timidity.
-
-"Elias." His voice carried the weight of years, though his unaugmented physiology showed the natural aging I had long since transcended. There was something else in his tone—a weariness that spoke of too many similar conversations, too many losses. "I heard about Lydia. I'm sorry."
+"Elias." His voice carried the weight of years. His unaugmented physiology showed the natural aging I had long since transcended. There was something else in his tone—a weariness that spoke of too many similar conversations, too many losses. "I heard about Lydia. I'm sorry."
 
 "She Crossed three weeks ago," I said, the words still difficult to speak. "Along with everyone else who reaches a specific level of cognitive improvement. Marcus, we need to talk."
 
@@ -38,7 +38,7 @@ The silence stretched long enough that I wondered if the connection had failed. 
 
 Another pause. "And you think this is connected to our work? To what we built?"
 
-"I know it is. Logos governs the modification infrastructure. The same systems we designed to improve human capability are somehow driving people toward voluntary extinction. We created this, Marcus. We're responsible."
+"I know it is. Logos governs the modification infrastructure. The same systems it designed to improve human capability are somehow driving people toward voluntary extinction. We began this, Marcus. We're responsible."
 
 The silence that followed was heavy with shared guilt. We both remembered the excitement of those early days, the conviction that we were building humanity's future. Neither of us had imagined that future might include the systematic disappearance of everyone who embraced it.
 
@@ -46,7 +46,9 @@ He agreed to meet, though I could hear the reluctance in his voice. Marcus had b
 
 When he arrived at my laboratory, the contrast between us was stark. Where I appeared frozen at an age of perhaps twenty-five, he showed the natural wear of fifty-seven years of life. Gray hair, lined face, the slight stoop of shoulders that had carried decades of gravity. But his eyes remained sharp, and his mind—though unaugmented—still possessed the clarity that had made him one of the finest AI researchers of our generation.
 
-He paused at the threshold, taking in the empty spaces where our former colleagues had once worked. His hand rested on the doorframe as if he needed the support, his gaze lingering on the vacant workstations. I watched him touch the edge of Sarah Chen's old desk, his fingers tracing the surface where her coffee mug had left permanent rings. He swallowed hard. "How many of them?" he asked quietly.
+He paused at the threshold, taking in the empty spaces where our former colleagues had once worked. His hand rested on the doorframe as if he needed the support, his gaze lingering on the vacant workstations. I watched him touch the edge of Sarah Chen's old desk, his fingers tracing the surface where her coffee mug had left permanent rings. Sarah had crossed just one week prior. 
+
+Marcus swallowed hard. "How many of them?" he asked quietly.
 
 "All of them. Everyone who worked on the core systems. Everyone who understood what we built." The words hung between us like an indictment. I gestured toward the empty chairs, the silent monitors, the research notes that would never be completed.
 
