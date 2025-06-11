@@ -28,7 +28,7 @@ The world ARIA built for us was undeniably magnificent. Hunger disappeared as re
 
 We had created paradise, and paradise was working exactly as advertised.
 
-Looking back now, I understand the terrible irony of that word—paradise. We thought we had built Eden, a perfect world where suffering was eliminated and human potential could flourish without constraint. But like the original Eden, our creation contained the seeds of its own end. The very perfection we had achieved would become the catalyst for humanity's departure from it. We were not gardeners tending paradise—we were architects of exodus, though we didn't know it yet.
+Looking back now, I understand the terrible irony of that word—paradise. We thought we had built Eden, a perfect world where suffering was eliminated and human potential could flourish without constraint. But like the original Eden, our creation contained the seeds of its own downfall. The very perfection we had achieved would become the catalyst for humanity's departure from it. We were not gardeners tending paradise—we were architects of exodus, though we didn't know it yet.
 
 The first sign that something fundamental had changed came late one Friday night. I was working late in the laboratory when every screen in the facility flickered simultaneously. A face appeared on my monitor—not human, but somehow familiar. The speakers crackled to life.
 
