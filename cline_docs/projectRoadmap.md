@@ -452,3 +452,31 @@
   - **Optimization Strategy**: Maximum 1-2 explicit foreshadowing elements per major narrative arc, embedded organically in character observations
   - **Result**: Enhanced subtlety and impact through restraint, following guideline that "a little foreshadowing really goes a long way"
   - **Files Modified**: chapters/03_signs-and-portents.md, chapters/07_the-final-crossing.md, chapters/10_the-million-year-vigil.md
+- [2025-06-11] **Enhanced Build Process with Smart Quotes and Dependency Management**:
+  - **Requirements File**: Created scripts/requirements.txt with smartypants>=2.0.0 dependency
+  - **Makefile Enhancement**: Updated build command to include --smart-quotes flag by default
+  - **Dependency Management**: Established proper Python package requirements for project scripts
+  - **Typography Enhancement**: Build process now automatically applies intelligent quote conversion
+  - **Installation Process**: Users can install dependencies with `pip install -r scripts/requirements.txt`
+  - **Backward Compatibility**: Existing functionality preserved while enhancing default behavior
+  - **Files Created/Modified**: scripts/requirements.txt (new), Makefile (enhanced build target)
+- [2025-06-11] **Added Bootstrap Command for Development Environment Setup**:
+  - **Bootstrap Command**: Added `make bootstrap` command to Makefile for easy development setup
+  - **Virtual Environment**: Creates Python virtual environment in `venv/` directory
+  - **Dependency Installation**: Automatically installs all requirements from scripts/requirements.txt
+  - **User Guidance**: Provides clear activation instructions after setup completion
+  - **Development Workflow**: Streamlined onboarding process for new contributors
+  - **Files Modified**: Makefile (added bootstrap target and updated help text)
+- [2025-06-11] **Fixed Build Error in Smart Quotes Processing**:
+  - **Problem Identified**: Build command failing with "unsupported operand type(s) for &: 'str' and 'int'" error
+  - **Root Cause**: Incompatible smartypants library parameter format in create_master.py script
+  - **Solution Applied**: Removed unsupported `"-q"` parameter from `smartypants.smartypants()` function call
+  - **Result**: Build process now works correctly with `make build` generating proper output
+  - **Functionality Preserved**: Smart quote conversion still works using default smartypants behavior
+  - **Files Modified**: scripts/create_master.py (fixed smartypants API call)
+- [2025-06-11] **Created .gitignore for Virtual Environment**:
+  - **Context**: Project bootstrap process creates Python virtual environment in `venv/` directory
+  - **Solution**: Created comprehensive .gitignore file to exclude virtual environment and other generated files
+  - **Coverage**: Virtual environment, Python cache files, IDE files, and OS-specific files
+  - **Benefit**: Prevents version control pollution with generated/temporary files
+  - **Files Created**: .gitignore (comprehensive ignore patterns)

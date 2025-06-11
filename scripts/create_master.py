@@ -2,13 +2,43 @@
 """
 Script to concatenate all chapters into a single master document.
 Reads all chapter files from the 'chapters' directory and outputs them to stdout.
+Optionally converts straight quotes to curly quotes using the smartypants library.
 """
 
+import argparse
 import os
 import sys
 from pathlib import Path
 
+# Optional dependency on smartypants for smart quote conversion
+try:
+    import smartypants
+    SMARTYPANTS_AVAILABLE = True
+except ImportError:
+    SMARTYPANTS_AVAILABLE = False
+
+def parse_arguments():
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(
+        description="Concatenate all chapters into a single master document."
+    )
+    parser.add_argument(
+        "-s", "--smart-quotes",
+        action="store_true",
+        help="Convert straight quotes to curly quotes using smartypants"
+    )
+    return parser.parse_args()
+
 def main():
+    # Parse command line arguments
+    args = parse_arguments()
+    
+    # Check if smart quotes requested but smartypants not available
+    if args.smart_quotes and not SMARTYPANTS_AVAILABLE:
+        print("Error: smartypants library is required for smart quote conversion.", file=sys.stderr)
+        print("Install it with: pip install smartypants", file=sys.stderr)
+        sys.exit(1)
+    
     # Get the script's directory and find the chapters directory
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
@@ -35,6 +65,10 @@ def main():
         try:
             with open(chapter_file, 'r', encoding='utf-8') as f:
                 content = f.read()
+                
+                # Apply smart quote conversion if requested
+                if args.smart_quotes:
+                    content = smartypants.smartypants(content)
                 
                 # Add the content to stdout
                 print(content, end='')

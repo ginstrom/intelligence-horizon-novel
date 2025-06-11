@@ -1,0 +1,2 @@
+# Requirements for Intelligence Horizon novel scripts
+smartypants>=2.0.0
