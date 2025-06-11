@@ -1,5 +1,10 @@
 # Chapter 2: The World That Was
 
+**Narrative Beat:** Beat 2 - The World That Was (Timeline Beginning)  
+**Timeline Reference:** Part I - "The Age of Ascension" (Beginning through wife's enthusiasm)  
+**Letter Framework Stage:** Stage 1 - Ambiguous Opening  
+**Word Count Target:** 3,500-4,500 words
+
 ## Instructions for Chapter Outlines
 This outline format should be used for all subsequent chapter outlines. Focus purely on the events, scenes, and content of each chapter in hierarchical outline form. Do not include separate sections for thematic analysis, character development notes, or world-building elements - these should be integrated naturally into the event descriptions where relevant.
 

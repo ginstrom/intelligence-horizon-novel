@@ -13,15 +13,15 @@
 **Handling Requirements:**
 - **Timeline:** Separate section "VI.5. The Million-Year Vigil" between Eden creation and final choice
 - **Storyline:** Integrated into narrative beats 8 and 12 (The Million-Year Vigil and Eden's First Seed)
-- **Chapters:** Covered in Chapters 10-11 with philosophical reflection in Chapter 12
+- **Chapters:** Covered in Chapter 10 with philosophical reflection integrated
 - **Consistency Rule:** All documents must acknowledge this as a distinct period with its own significance
 
 ### Letter Framework Integration
 **Stage Mapping Requirements:**
 - **Stage 1 (Ambiguous Opening):** Chapters 1-3, Narrative Beats 1-2
 - **Stage 2 (Emerging Directness):** Chapters 4-6, Narrative Beats 4-5
-- **Stage 3 (Clearer Address):** Chapters 7-12, Narrative Beats 7-8
-- **Stage 4 (Full Revelation):** Chapters 13-15, Narrative Beat 9
+- **Stage 3 (Clearer Address):** Chapters 8-10, Narrative Beats 6-7
+- **Stage 4 (Full Revelation):** Chapter 11, Narrative Beat 8
 - **Consistency Rule:** All documents must maintain this progression without jumping stages
 
 ## Critical Consistency Points

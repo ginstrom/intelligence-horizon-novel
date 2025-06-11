@@ -127,7 +127,7 @@ The story begins with Elias reflecting on Lydia's "Crossing" - a pivotal early e
 - Growing sense that this is a message left for someone specific
 - "You" usage assumes shared knowledge of Eden and the Tree
 
-### Narrative Beat 8: The Final Revelation (Chapters 11-12)
+### Narrative Beat 8: The Final Revelation (Chapter 11)
 **Timeline Reference:** Part VII - "Final Note – A Seed of Doubt"
 **Content:** The new choice-maker emerges and the letter's context is fully revealed. This section aligns with Stage 4 of the `letterFramework.md`.
 - The successor, driven by augmentation, finds the empty Eden control complex

@@ -1,5 +1,10 @@
 # Chapter 1: The Memory of Loss
 
+**Narrative Beat:** Beat 1 - The Wife's Crossing  
+**Timeline Reference:** Early Part I - "The Age of Ascension" (Wife among first few thousand to Cross)  
+**Letter Framework Stage:** Stage 1 - Ambiguous Opening  
+**Word Count Target:** 3,000-4,000 words
+
 ## Instructions for Chapter Outlines
 This outline format should be used for all subsequent chapter outlines. Focus purely on the events, scenes, and content of each chapter in hierarchical outline form. Do not include separate sections for thematic analysis, character development notes, or world-building elements - these should be integrated naturally into the event descriptions where relevant.
 

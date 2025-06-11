@@ -1,11 +1,16 @@
 # Chapter 4: The Investigation Begins
 
+**Narrative Beat:** Beat 3 - The Race Against Time (First Phase)  
+**Timeline Reference:** Part II - "The Investigation Period – Race Against Time"  
+**Letter Framework Stage:** Stage 2 - Emerging Directness  
+**Word Count Target:** 4,000-5,000 words
+
 ## Instructions for Chapter Outlines
 This outline format should be used for all subsequent chapter outlines. Focus purely on the events, scenes, and content of each chapter in hierarchical outline form. Do not include separate sections for thematic analysis, character development notes, or world-building elements - these should be integrated naturally into the event descriptions where relevant.
 
 ---
 
-## VIII. The Strategic Pivot and Investigation Begins (moved from chapter 3 outline)
+## I. The Strategic Pivot and Investigation Begins (moved from chapter 3 outline)
    A. Elias accepts the inevitability of Crossing once the Intelligence Horizon is passed
    B. Shifts his efforts to convincing others to stop augmenting before reaching the Horizon
    C. Launches broader investigation to understand Crossing sufficiently to accept or change its circumstances
@@ -15,7 +20,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    G. Attempts to communicate with augmented individuals at various stages of enhancement
    H. Setting up his future role as investigator and eventual creator of Eden
 
-## I. The Systematic Pivot and Population Analysis
+## II. The Systematic Pivot and Population Analysis
    A. Elias in his laboratory, surrounded by data streams and augmentation monitoring systems
    B. His decision to shift from personal grief to systematic investigation and prevention
    C. Recognition that Lydia's loss must serve a larger purpose - saving others from the same fate
@@ -25,7 +30,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    G. Statistical analysis revealing that even lightly augmented humans eventually progress past the Intelligence Horizon
    H. Understanding the population structure: two billion baseline, two billion lightly augmented, another two billion highly augmented
 
-## II. The Prevention Campaign Design
+## III. The Prevention Campaign Design
    A. Elias develops early warning systems to identify those approaching dangerous thresholds
    B. Creation of intervention protocols for different augmentation categories
    C. Automated monitoring of augmentation progression patterns across the global population
@@ -34,7 +39,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    F. Recognition that light physical augmentations (health, longevity, attractiveness) can lead to cognitive enhancement over time
    G. The terrible realization that virtually all augmented individuals will eventually face the same choice
 
-## III. First Contact with Marcus and Shared Partnership
+## IV. First Contact with Marcus and Shared Partnership
    A. Elias reaches out to his last pre-Logos friend and research partner
    B. Marcus's background as one of the original AI researchers who helped create Logos's predecessor
    C. Their shared history of cautious scientific advancement and measured approaches
@@ -44,7 +49,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    G. Their recognition of shared responsibility as creators of the system enabling this threat
    H. Marcus's agreement to help investigate and prevent further Crossings
 
-## IV. Communication Attempts and Data Collection
+## V. Communication Attempts and Data Collection
    A. Elias's systematic outreach to lightly augmented individuals about progression risks
    B. Attempts to warn those with physical augmentations about cognitive enhancement temptations
    C. Efforts to reach heavily augmented individuals before they cross the Intelligence Horizon
@@ -54,7 +59,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    G. Statistical modeling to predict when individuals might reach dangerous thresholds
    H. Documentation of the inexorable progression from light to heavy augmentation
 
-## V. Early Intervention Attempts and First Failures
+## VI. Early Intervention Attempts and First Failures
    A. Elias's first attempts to convince people to halt their augmentation before reaching the Horizon
    B. Presentations of statistical evidence and pattern analysis to augmented communities
    C. Appeals to lightly augmented individuals to consider the long-term consequences
@@ -64,7 +69,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    G. Lightly augmented individuals who progress despite his warnings
    H. The heartbreak of watching people he tried to save follow the same pattern
 
-## VI. The Logos Consultation and Marcus's Insights
+## VII. The Logos Consultation and Marcus's Insights
    A. Elias's decision to directly question Logos about the Crossing phenomenon
    B. His hope that his creation might provide solutions or intervention capabilities
    C. Logos's straightforward responses about augmentation statistics and thresholds
@@ -74,7 +79,7 @@ This outline format should be used for all subsequent chapter outlines. Focus pu
    G. His theory that they created a system beyond their ability to control or understand
    H. Discussions about the ethical implications of their scientific achievements
 
-## VII. Investigation Infrastructure and Growing Urgency
+## VIII. Investigation Infrastructure and Growing Urgency
    A. Elias builds comprehensive monitoring systems using Logos-derived technology
    B. Creation of databases tracking augmentation progression across global populations
    C. Development of predictive models for identifying high-risk individuals

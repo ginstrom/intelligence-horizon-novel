@@ -34,7 +34,7 @@ The story begins as a first-person reflective memoir. Only over time, through ca
 - **Reader Perception**: Strong sense that this is a message left for a successor. The "you" is clearly the person who has eaten the fruit.
 - **Goal**: Prepare for the full reveal of the letter's context.
 
-### Stage 4: Full Revelation (Chapters 11-12 - Narrative Beat 8)
+### Stage 4: Full Revelation (Chapter 11 - Narrative Beat 8)
 - **Narrative Style**: Explicitly a letter. Elias directly addresses the recipient in their current situation (having found the control room).
 - **"You" Usage**: Situational and direct.
     - Example: "You stand now in the silence of this control room, as I once did."

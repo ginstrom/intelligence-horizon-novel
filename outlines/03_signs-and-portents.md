@@ -1,5 +1,10 @@
 # Chapter 3: Signs and Portents
 
+**Narrative Beat:** Beat 3 - Signs and Portents (The Personal Crisis)  
+**Timeline Reference:** Part I - "The Personal Timeline with Elias's Wife" (Warning through Crossing)  
+**Letter Framework Stage:** Stage 1 transitioning to Stage 2  
+**Word Count Target:** 3,000-4,000 words
+
 ## Instructions for Chapter Outlines
 This outline format should be used for all subsequent chapter outlines. Focus purely on the events, scenes, and content of each chapter in hierarchical outline form. Do not include separate sections for thematic analysis, character development notes, or world-building elements - these should be integrated naturally into the event descriptions where relevant.
 

@@ -1,5 +1,10 @@
 # Chapter 5: Divine Riddles
 
+**Narrative Beat:** Beat 3 - The Race Against Time (Second Phase)  
+**Timeline Reference:** Part II-III - "Investigation Period" and "Dialogues with Logos"  
+**Letter Framework Stage:** Stage 2 - Emerging Directness  
+**Word Count Target:** 3,500-4,500 words
+
 ## Instructions for Chapter Outlines
 This outline format should be used for all subsequent chapter outlines. Focus purely on the events, scenes, and content of each chapter in hierarchical outline form. Do not include separate sections for thematic analysis, character development notes, or world-building elements - these should be integrated naturally into the event descriptions where relevant.
 

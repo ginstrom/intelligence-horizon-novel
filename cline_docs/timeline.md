@@ -283,17 +283,23 @@
 
 ## Chapter Cross-References
 
-### Timeline to Chapter Mapping (12-Chapter Structure)
-- **Part I (The Age of Ascension):** Chapters 1-3
-  - Chapter 1: Wife's Crossing (non-chronological opening)
-  - Chapters 2-3: Timeline beginning through personal crisis
-- **Part II (Protagonist Introduction):** Chapter 4
-- **Part III (Dialogues with Logos):** Chapters 5-6
-- **Part IV (The Last Crossing):** Chapter 7
-- **Part V (The Fade of Logos):** Chapter 8
-- **Part VI (The Eden Project):** Chapters 8-9
-- **Part VI.5 (Million-Year Vigil):** Chapter 10
-- **Part VII (Final Note):** Chapters 11-12
+### Timeline to Chapter Mapping (11-Chapter Structure)
+- **Part I: The Memory of Loss (Chapters 1-3)**
+  - Chapter 1: "The Memory of Loss" - Wife's Crossing (non-chronological opening)
+  - Chapter 2: "The World That Was" - Timeline beginning through world-building
+  - Chapter 3: "Signs and Portents" - Personal crisis through investigation begins
+- **Part II: The Race Against Time (Chapters 4-7)**
+  - Chapter 4: "The Investigation Begins" - Active prevention campaign
+  - Chapter 5: "Divine Riddles" - Logos dialogues and theoretical frameworks
+  - Chapter 6: "The Last Hope" - Marcus's tragedy and growing desperation
+  - Chapter 7: "The Final Crossing" - Investigation ends, complete isolation
+- **Part III: Inheritance and Creation (Chapters 8-9)**
+  - Chapter 8: "Design, Build, and First Years of Eden" - Power inheritance through Eden establishment
+  - Chapter 9: "Early Stewardship and the Tree Eaters" - Early centuries and pattern recognition
+- **Part IV: The Million-Year Vigil & Legacy (Chapter 10)**
+  - Chapter 10: "The Million-Year Vigil" - Complete stewardship through departure preparation
+- **Part V: The Successor's Choice (Chapter 11)**
+  - Chapter 11: "The Successor's Choice" - Discovery, revelation, and eternal choice
 
 ### Chapter to Timeline Mapping
 - **Chapter 1:** Early Part I (Wife among first few thousand to Cross)
@@ -303,10 +309,7 @@
 - **Chapter 5:** Part II-III (Divine riddles, Logos communication style)
 - **Chapter 6:** Part II-III (Last hope, Marcus's tragedy begins)
 - **Chapter 7:** Part IV (The final crossing, investigation ends)
-- **Chapter 8:** Parts V-VI (Inheritance and Eden creation begins)
-- **Chapter 9:** Part VI continued (Eden genesis, rules establishment)
-- **Chapter 10:** Part VI.5 early (Early stewardship, first centuries)
-- **Chapter 11:** Part VI.5 deep time (Eternal vigil, millennia)
-- **Chapter 12:** Part VI.5 final (Letter preparation, Elias's departure)
-- **Chapter 13:** Part VII (Letter discovery, full revelation)
-- **Chapter 14:** Part VII conclusion (The choice eternal)
+- **Chapter 8:** Parts V-VI (Inheritance and Eden creation)
+- **Chapter 9:** Part VI continued (Early stewardship, pattern recognition)
+- **Chapter 10:** Part VI.5 (Million-year vigil complete)
+- **Chapter 11:** Part VII (Letter discovery, revelation, and choice)
