@@ -11,7 +11,7 @@ Following David's departure, Elias settles into the pattern that will define his
 ---
 
 ## I. Transition from David's Loss and Acceptance of the Eternal Pattern
-   A. Elias processes the loss of his longest companion since Marcus, recognizing that even 500 years of communion cannot break the fundamental pattern
+   A. Elias processes the loss of his longest companion ever, recognizing that even 500 years of communion cannot break the fundamental pattern
    B. The devastating confirmation that the pattern appears truly universal, with David's departure leaving him alone again but with deeper understanding
    C. His acceptance of the burden of eternal companionship with those who will choose to leave Eden, knowing each communion will end in transcendent departure
    D. The psychological shift from hoping individuals might resist indefinitely to understanding the cyclical nature of choice and consciousness
@@ -33,6 +33,9 @@ Following David's departure, Elias settles into the pattern that will define his
    D. The statistical reality emerges: regardless of personality, background, or initial resistance, all enhanced individuals eventually choose Crossing
    E. Elias documents the variations in timeline while recognizing the universal nature of the outcome
    F. His growing sophistication in reading the signs of those who might resist longer versus those who will Cross quickly
+   G. Elias subjects the resistance-time data to quantitative analysis, plotting each individual's duration on a multi-millennial timeline and discovering that the aggregate average rises and falls in a vast, sinusoidal wave pattern across geological time
+   H. Elias sometimes wanders among the residents of Eden, posing as a baseline human. He limits his treks to once every few centuries, and never exposes his powers, yet somehow legends of a kindly guardian spirit wandering the land take root among the residents.
+   I. At this point Elias makes another "you" reference saying the listener probably recognizes that legend.
 
 ## IV. Notable Encounters and Communion Across the Ages
    A. A brilliant artist who resisted for two centuries, creating works of transcendent beauty before choosing to Cross
@@ -72,6 +75,7 @@ Following David's departure, Elias settles into the pattern that will define his
    D. Understanding the difference between free will and predetermined outcomes in the context of enhanced consciousness
    E. The wisdom that comes from witnessing thousands of individual choices that collectively reveal universal patterns
    F. His growing sense that someone truly different might eventually come - someone who could break the cycle entirely
+   G. By extrapolating the wave pattern forward, Elias predicts an imminent crest—slated for just after Eden's millionth anniversary—when a singular individual may endure extraordinary resistance, perhaps indefinitely
 
 ## VII. Stewardship Evolution and Invisible Guidance Mastery
    A. How Elias perfects the art of invisible stewardship across millennia, learning to guide without controlling

@@ -411,3 +411,45 @@
   - **Investigation's End**: Formal recognition that prevention is impossible
   - **Emotional Cliffhanger**: Marcus crossing Intelligence Horizon threshold, leaving Elias truly alone
   - **Setup for Chapter 7**: Marcus's final Crossing and Elias's complete isolation
+- [2025-06-10] **Global Logos Dialogue Streamlining - Second Pass**:
+  - **Eliminated All Exact Duplicates**: Removed repeated instances of "Some truths can only be discovered, never taught" and "Understanding must come through experience, not explanation" from Chapter 5
+  - **Removed Redundant Metaphors**: Cut duplicate "burden of infinite possibility" reference from Chapter 6
+  - **Preserved Unique Content**: Maintained all essential philosophical frameworks while eliminating repetition
+  - **Theory Distribution Optimized**: Each of the three Crossing theories now appears exactly twice (hint + expansion)
+  - **Metaphor Families Streamlined**: Reduced from ~12 to 7 unique metaphor families, eliminating overlap
+  - **Documentation Updated**: Created comprehensive `logos-dialogue-inventory.md` tracking all remaining utterances
+  - **Quality Metrics Achieved**: Zero exact duplicates, zero redundant restatements, preserved pacing and emotional impact
+  - **Files Modified**: chapters/05_divine-riddles.md, chapters/06_the-last-hope.md, logos-dialogue-inventory.md
+- [2025-06-10] **Limited Augmentation References Implementation**:
+  - **Reader Feedback Response**: Implemented guideline to limit explicit mentions of Elias's enhanced state to maximum one per chapter
+  - **Comprehensive Reduction**: Reduced from 33+ personal augmentation references to 11 total (≤1 per chapter)
+  - **Strategic Retention**: Kept only references that serve clear narrative functions (plot advancement, emotional stakes, character development)
+  - **Quality Preservation**: Maintained narrative flow, emotional impact, and character consistency throughout
+  - **General References Preserved**: Kept references to "augmented humans," "the augmented," etc. for world-building
+  - **Files Modified**: All 10 main chapters (chapters/02-11) with significant reductions in chapters 2, 3, 5, 6, 9, and 11
+  - **Immersion Enhancement**: Novel now has improved reader immersion with minimal disruption from repeated augmentation reminders
+- [2025-06-10] **Clarified Emotional Beats Enhancement**:
+  - **Reader Feedback Response**: Enhanced Elias's emotional responses to significant events through precise physical actions, sensations, and vivid imagery
+  - **Three Key Scenes Enhanced**: Added concrete physical manifestations to Lydia's departure (Chapters 1 & 3) and Marcus's final Crossing (Chapter 7)
+  - **Physical Anchoring**: Integrated involuntary bodily reactions (trembling, throat constriction, metallic taste) and environmental details (warm door handle, harsh light, flickering equations)
+  - **Minimal Word Impact**: Added ~150 total words across three scenes while maintaining narrative flow and voice consistency
+  - **Enhanced Reader Connection**: Translated abstract emotional states into visceral, relatable physical responses for stronger reader engagement
+  - **Files Modified**: chapters/01_memory-of-loss.md, chapters/03_signs-and-portents.md, chapters/07_the-final-crossing.md
+- [2025-06-10] **Refined Chapter Endings for Enhanced Narrative Momentum**:
+  - **Issue Addressed**: Some chapters concluded with overly reflective summaries that diminished narrative momentum
+  - **Three Chapters Enhanced**: Replaced analytical endings with emotionally impactful or suspenseful conclusions
+  - **Chapter 2 Enhancement**: Transformed reflection about paradise's hidden costs into immediate dread about Lydia's upcoming procedure (tablet slipping from trembling hands)
+  - **Chapter 5 Enhancement**: Replaced investigation failure summary with personal stakes and Marcus's dangerous consideration of augmentation
+  - **Chapter 6 Enhancement**: Converted reflective summary into visceral scene of finding Marcus transformed and unrecognizing after crossing Intelligence Horizon
+  - **Techniques Applied**: Cliffhangers, urgent emotional reactions, immediate personal stakes, shocking revelations
+  - **Result**: Enhanced reader engagement through endings that propel narrative forward rather than summarize previous content
+  - **Files Modified**: chapters/02_the-world-that-was.md, chapters/05_divine-riddles.md, chapters/06_the-last-hope.md
+- [2025-06-10] **Optimized Foreshadowing Density for Enhanced Impact**:
+  - **Issue Addressed**: Redundant foreshadowing of Crossing events across multiple chapters reducing their narrative impact
+  - **Three Key Chapters Optimized**: Streamlined foreshadowing elements related to Intelligence Horizon and Crossing phenomenon
+  - **Chapter 3 Enhancement**: Reduced redundant explanations while preserving powerful event horizon analogy for Intelligence Horizon introduction
+  - **Chapter 7 Enhancement**: Eliminated repetitive descriptions already established in Chapter 3, focused on Marcus's personal experience
+  - **Chapter 10 Enhancement**: Replaced explicit pattern statements with subtle references building on previous foreshadowing
+  - **Optimization Strategy**: Maximum 1-2 explicit foreshadowing elements per major narrative arc, embedded organically in character observations
+  - **Result**: Enhanced subtlety and impact through restraint, following guideline that "a little foreshadowing really goes a long way"
+  - **Files Modified**: chapters/03_signs-and-portents.md, chapters/07_the-final-crossing.md, chapters/10_the-million-year-vigil.md

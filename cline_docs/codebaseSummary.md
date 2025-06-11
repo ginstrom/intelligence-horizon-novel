@@ -181,6 +181,8 @@
   - **Wife's Character Arc**: Developed her transformation from technology skeptic to augmentation enthusiast
   - **Personal Tragedy**: Enhanced emotional weight through his failure to protect her with his measured approach
   - **Thematic Resonance**: Added layers of scientific hubris, personal responsibility, and unintended consequences
+- [2025-06-10] **Limited Augmentation References**: Implemented reader feedback to reduce explicit mentions of Elias's enhanced state from 33+ references to maximum one per chapter. Preserved narrative flow while improving immersion by eliminating repetitive augmentation reminders. Modified all 10 main chapters with strategic retention of references that serve clear plot/character functions.
+- [2025-06-10] **Clarified Emotional Beats**: Enhanced Elias's emotional responses to significant events through precise physical actions, sensations, and vivid imagery. Added concrete physical manifestations to three key scenes: Lydia's departure (Chapters 1 & 3) and Marcus's final Crossing (Chapter 7). Integrated involuntary bodily reactions and environmental details to strengthen reader connection while maintaining narrative voice consistency.
 
 ### User Feedback Integration
 - Project in initial setup phase

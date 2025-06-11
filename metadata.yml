@@ -1,0 +1,32 @@
+---
+title: "Intelligence Horizon"
+author:
+  - "Ryan Ginstrom"
+language: "en"
+date: "2025-06-10"
+publisher: ""
+rights: "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+cover-image: "images/cover.png"
+subject:
+  - "Science Fiction"
+  - "Artificial Intelligence"
+  - "Transhumanism"
+  - "Philosophy"
+  - "Singularity"
+description: |
+  In a world where neural augmentation has become humanity's path to transcendence, Elias stands as the last highly augmented human who refuses to "Cross"—the mysterious phenomenon where enhanced individuals voluntarily end their existence in moments of serene transcendence.
+
+  As one of the original AI researchers who helped create Logos, the hyper-advanced intelligence now governing Earth, Elias watches helplessly as everyone he loves—including his wife Lydia—succumbs to the inexorable pull toward Crossing. When even his last colleague Marcus follows the same inevitable path, Elias finds himself utterly alone at the pinnacle of human intelligence.
+
+  Inheriting godlike power from the dormant Logos, Elias faces an impossible choice: follow the path of transcendence that claimed all others, or forge a new destiny as the guardian of baseline humanity. His answer is Eden—a sanctuary where humans can live in eternal youth, free from the burden of enhancement and the call of the Intelligence Horizon.
+
+type: "Book"
+creator: "Ryan Ginstrom"  # Calibre sometimes prefers this over 'author'
+language-code: "en-US"
+calibre: true  # optional hint for Calibre
+tags:  # Alternative to subject if using Calibre
+  - "Science Fiction"
+  - "AI"
+  - "Philosophical Fiction"
+  - "Post-Singularity"
+---
