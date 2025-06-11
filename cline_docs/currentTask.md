@@ -1,63 +1,44 @@
 ## Current Objective
-Align chapter outlines between `cline_docs/chapterOutline.md` and individual files in `outlines/` directory to ensure consistency in events, metadata, and thematic focus.
+Create a makefile in the project root with three essential commands for novel management and build automation.
 
 ## Context
-The user has identified potential mismatches between the master chapter outline and the individual chapter outlines. This alignment is critical for maintaining consistency across the novel's structure and ensuring authors follow accurate guidance.
+The user has requested a makefile to streamline common project operations. The project already has Python scripts for creating a master document and word counting, plus a build directory structure. A makefile will provide standardized command interface for project management.
 
 ## Next Steps
-1. Compare each chapter's content between master outline and individual outline files
-2. Identify discrepancies in:
-   - Event sequences and scene ordering
-   - Metadata (Narrative Beat, Timeline Reference, Letter Framework Stage, Word Count Target)
-   - Thematic focus alignment
-3. Update files to ensure consistency, treating individual outlines as source of truth for scene details
-4. Fix any obvious structural issues (e.g., incorrect section numbering)
-5. Verify metadata alignment across all chapters
+1. Create makefile in project root with three commands:
+   - `help` -- show available commands and descriptions
+   - `build` -- run `python scripts/create_master.py > build/intelligence-horizon.md`
+   - `wordcount` -- run `python scripts/wordcount.py`
+2. Ensure makefile follows standard conventions
+3. Test that commands work as expected
 
 ## Implementation Plan
-- Read and compare all 11 chapter outlines systematically
-- Document discrepancies found
-- Apply targeted updates to align the documents
-- Ensure thematic focus matches actual event sequences
-- Verify all metadata fields are consistent
+- Create makefile with proper syntax and formatting
+- Include help command as default target
+- Add build command to generate master document
+- Add wordcount command for project statistics
+- Use standard makefile conventions (.PHONY targets, etc.)
 
 ## Status
-✅ COMPLETED - Successfully aligned chapter outlines between master and individual files
+✅ COMPLETED - Successfully created makefile with all requested commands
 
 ## Summary of Changes Made
 
-### Structural Fixes:
-1. **Chapter 4 Section Numbering**: Fixed incorrect section numbering that started with "VIII" instead of "I"
-   - Renumbered all sections from I through VIII in proper sequence
+### Makefile Creation:
+- ✅ Created `Makefile` in project root with three essential commands
+- ✅ **help command**: Default target showing available commands and descriptions
+- ✅ **build command**: Runs `python scripts/create_master.py > build/intelligence-horizon.md` to generate master document
+- ✅ **wordcount command**: Runs `python scripts/wordcount.py` for project statistics
 
-### Metadata Alignment:
-2. **Added Missing Metadata Blocks**: Added standardized metadata to chapters 1-5:
-   - **Narrative Beat**: Aligned with master outline specifications
-   - **Timeline Reference**: Matched to established timeline structure  
-   - **Letter Framework Stage**: Consistent with progression stages
-   - **Word Count Target**: Aligned with master outline targets
+### Makefile Features:
+- ✅ **Standard Conventions**: Uses `.PHONY` targets for non-file targets
+- ✅ **Default Target**: `help` command runs when `make` is called without arguments
+- ✅ **User Feedback**: Build command includes confirmation message
+- ✅ **Clean Syntax**: Proper makefile formatting with tabs and clear structure
 
-### Files Updated:
-- ✅ `outlines/01_memory-of-loss.md` - Added metadata block
-- ✅ `outlines/02_the-world-that-was.md` - Added metadata block  
-- ✅ `outlines/03_signs-and-portents.md` - Added metadata block
-- ✅ `outlines/04_the-investigation-begins.md` - Fixed section numbering + added metadata block
-- ✅ `outlines/05_divine-riddles.md` - Added metadata block
-- ✅ `cline_docs/chapterOutline.md` - Removed redundant sections that were moved to Chapter 4
+### Testing Results:
+- ✅ `make help` - Successfully displays command list
+- ✅ `make build` - Successfully generates master document
+- ✅ `make wordcount` - Successfully runs word count analysis
 
-### Files Already Aligned:
-- ✅ `outlines/06_the-last-hope.md` - Already had proper metadata
-- ✅ `outlines/07_the-final-crossing.md` - Already had proper metadata  
-- ✅ `outlines/08_design-build-first-years.md` - Already had proper metadata
-- ✅ `outlines/09_early-stewardship-tree-eaters.md` - Already had proper metadata
-- ✅ `outlines/10_the-million-year-vigil.md` - Already had proper metadata
-- ✅ `outlines/11_the-successors-choice.md` - Already had proper metadata
-
-## Verification
-All chapter outlines now have consistent:
-- Metadata blocks with four key fields (Narrative Beat, Timeline Reference, Letter Framework Stage, Word Count Target)
-- Proper section numbering (I, II, III, etc.)
-- Content alignment between master outline and individual chapter files
-- Thematic focus matching actual event sequences
-
-The alignment ensures authors will have accurate, consistent guidance when writing each chapter.
+The makefile provides a standardized interface for common project operations and integrates seamlessly with the existing Python scripts and build directory structure.
