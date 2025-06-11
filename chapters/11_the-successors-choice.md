@@ -90,10 +90,6 @@ I thought of all who had come before me. Lydia, Marcus, David, and thousands of 
 
 I thought of Elias's final words: "The future is yours to write."
 
-My finger moved toward the interface.
-
-The control systems waited.
-
 I pressed my palm against the console and felt the vast machinery of the world respond to my touch, ready to reshape reality according to my will.
 
 The moment stretched toward infinity.
