@@ -18,7 +18,7 @@ Some listened. A few lightly augmented individuals chose to halt their progressi
 
 And while some lightly augmented individuals agreed to halt augmentations, not a single highly augmented person heeded my warnings.
 
-In some cases, I tried speaking to the augmented directly, in person. But these contacts bore no more fruit than my automated messages.
+In some cases, I tried appealing to the augmented directly, in person. But these contacts bore no more fruit than my automated messages.
 
 The failures haunted me more than the paltry successes encouraged me. I watched individuals I had specifically warned follow the same trajectory as Lydia, their communications growing more abstract, their concerns shifting from the material to the ineffable, until they too departed with that same expression of profound understanding. Each departure felt like a personal failure, a reminder that knowledge without power was merely sophisticated helplessness.
 
@@ -62,11 +62,9 @@ I displayed the data streams, the population analyses, the progression patterns.
 
 "Logos?"
 
-"Possibly. It has access to all augmentation systems, could subtly influence the improvement process. But I haven't been able to get clear answers from it about the cause."
+"Possibly. It has access to all augmentation systems, could subtly influence the improvement process." I gestured to the results on the screen. "But I haven't been able to get clear answers from it about the cause."
 
 Marcus leaned back in his chair, a gesture I remembered from countless late-night debugging sessions. He rubbed his temples with both hands, then let them fall to his lap where they trembled slightly—not from age, but from the weight of what we were discussing. "If Logos is somehow guiding the augmented to Cross, it can't be malicious. We designed ARIA to be helpful, and Logos inherited that drive. If Logos is doing it, it's for some greater purpose that's incomprehensible to us."
-
-He paused, turning his hands palm-up and staring at them as if they held answers. The lines and calluses spoke of decades of unaugmented life, of physical interaction with a world that enhanced minds increasingly abandoned. "Do you ever wonder if we were wrong from the beginning? If consciousness was never meant to be... improved?"
 
 The possibility chilled me more than outright malevolence would have. If we couldn't understand Logos's motives, how could we convince it to stop? Forcing it to do anything had ceased to be a possibility long ago.
 
@@ -75,6 +73,8 @@ The possibility chilled me more than outright malevolence would have. If we coul
 "Or," Marcus said quietly, "maybe there's no external influence at all. Maybe this is just what intelligence does when it reaches a certain threshold. Maybe consciousness itself has natural limits, and crossing them leads inevitably to... whatever this is."
 
 His voice carried a pain I hadn't expected. "I've watched so many brilliant minds disappear, Elias. People I respected, admired, loved. And every time, I told myself it was manipulation, coercion, some external force. Because the alternative..." He met my eyes. "The alternative is that intelligence itself is a trap. That the very thing we spent our lives celebrating and enhancing leads inevitably to self-destruction."
+
+He paused, turning his hands palm-up and staring at them as if they held answers. The lines and calluses spoke of decades of unaugmented life, of physical interaction with a world that enhanced minds increasingly abandoned. "Do you ever wonder if we were wrong from the beginning? If consciousness was never meant to be... improved?"
 
 I had considered that possibility, but hearing it spoken aloud made it feel more real, more terrifying. If the Crossing urge was intrinsic to augmented consciousness rather than external manipulation, then my prevention efforts were not just difficult—they were impossible. You cannot save someone from their own nature.
 
@@ -98,15 +98,15 @@ The failures were particularly painful when they involved people we knew persona
 
 Marcus took each failure harder than I did. Where I could retreat into analytical detachment, he felt every loss as a personal betrayal of his principles. "I should have fought harder," he would say after another colleague Crossed. "I should have found better arguments, more compelling reasons to stay human." His guilt was different from mine—not the creator's responsibility for unintended consequences, but the witness's anguish at failing to prevent tragedy he saw coming.
 
-But we persisted, driven by the terrible mathematics of the situation. Every day brought new individuals closer to the Intelligence Horizon. Every week saw dozens Cross into whatever lay beyond augmented consciousness. The augmented population was hemorrhaging minds at an accelerating rate, and our intervention success rate remained stubbornly low.
+But we persisted, driven by the terrible mathematics of the situation. Every day brought new individuals closer to the Intelligence Horizon. Every week saw millions Cross into whatever lay beyond augmented consciousness. The augmented population was hemorrhaging minds at an accelerating rate, and our intervention success rate remained stubbornly low.
 
-I began to focus more intensively on the lightly augmented, reasoning that they might be more receptive to warnings before cognitive improvement took hold. These individuals—billions of them scattered across the globe—had chosen physical improvements that seemed safely distant from the consciousness trap. Improved health, extended longevity, better attractiveness, specialized physical capabilities for sports or extreme environments. Surely they could be convinced to maintain their current level rather than risk progression toward cognitive improvement.
+I began to focus more intensively on the lightly augmented, reasoning that they might be more receptive to warnings before cognitive improvement took hold. These individuals—billions of them spread across the globe—had chosen physical improvements that seemed safely distant from the consciousness trap. Improved health, extended longevity, better attractiveness, specialized physical capabilities for sports or extreme environments. Surely they could be convinced to maintain their current level rather than risk progression toward cognitive improvement.
 
 Some listened, particularly those who had witnessed highly augmented friends or family members Cross. They understood the stakes and chose limitation over risk. But for every success, many more discounted our warnings.
 
 "You're asking me to choose ignorance over enlightenment," one young woman told me during a particularly frustrating consultation. She had enhanced her physical capabilities for mountain climbing but was considering cognitive improvements to better appreciate the mathematical beauty of geological formations. "I've seen what highly augmented minds can perceive. Why would I voluntarily limit myself to baseline understanding?"
 
-I tried to explain the pattern, the inevitability of Crossing once certain thresholds were passed, but she dismissed my concerns as the paranoia of someone afraid to fully embrace enhancement. Three months later, she began cognitive augmentation. Six months after that, she Crossed with the same expression of serene understanding that had claimed Lydia.
+I tried to explain the pattern, the inevitability of Crossing once certain thresholds were passed, but she dismissed my concerns, confident that she could halt her augmentation before reaching the Horizon. Three months later, she began cognitive augmentation. Six months after that, she Crossed with the same expression of serene understanding that had claimed Lydia.
 
 Each failure reinforced the same terrible truth: the improved capabilities that made Crossing possible also made the warnings against it seem like fearful limitation. Those approaching the Intelligence Horizon could perceive possibilities that baseline and lightly augmented minds could not comprehend. From their perspective, my attempts at prevention looked like efforts to trap them in inferior states of consciousness.
 
@@ -116,19 +116,19 @@ The statistical models we developed became grimly accurate predictors of individ
 
 "We're becoming accountants of extinction," Marcus observed during one of our late-night analysis sessions. His voice was hollow, exhausted by months of watching our predictions come true with mathematical precision. He pushed back from his desk and stood, walking to the wall where we'd mounted photographs of everyone we'd tried to save. "We can tell you exactly when someone will Cross, but we can't tell you why they choose to."
 
-He reached out and touched one of the photographs—Sarah Chen, smiling in her lab coat from before her first enhancement. His finger traced the edge of the frame with infinite care. "Sometimes I wonder if this is what it felt like to be the last person who remembered the old world, watching civilization collapse one mind at a time." His shoulders sagged as he looked at the dozens of faces, all gone now, his hand dropping to his side.
+He reached out and touched one of the photographs—Sarah Chen, smiling in her lab coat from before her first enhancement. His finger traced the edge of the frame with infinite care. "Sometimes I wonder what it will feel like to be the last person who remembers the old world, watching civilization collapse one mind at a time." His shoulders sagged as he looked at the dozens of faces, all gone now, his hand dropping to his side.
 
-Seeking answers, I engaged Logos. If any entity understood the Intelligence Horizon phenomenon, it would be it.
+Seeking answers, I engaged Logos. If any entity understood the Intelligence Horizon phenomenon, it would be Logos.
 
 The conversation began promisingly.
 
 "Logos, I need data on current modification progression rates across all categories," I said, settling into the familiar rhythm of technical consultation.
 
-The response was immediate and precise: every highly augmented individual eventually Crossed, usually within months of reaching the Intelligence Horizon. The lightly augmented mostly remained stable, but a significant minority progressed to cognitive improvement. The projections were stark—complete extinction of the highly augmented population within decades.
+The response was immediate and precise: every highly augmented individual eventually Crossed, usually within months of reaching the Intelligence Horizon. The lightly augmented mostly remained stable, but a significant minority progressed to cognitive improvement. The projections were stark—complete extinction of the highly augmented population within decades, Crossing of all augmented people within a few centuries.
 
 The clinical precision was both reassuring and horrifying. But when I shifted to the questions that truly mattered, everything changed.
 
-"Can the modification process be altered to prevent Crossing?"
+"Can the modification process be altered to prevent the urge to Cross?"
 
 "I'm sorry Elias, but the data on motive is inconclusive."
 
@@ -154,13 +154,13 @@ Our investigation had reached an impasse. We could document the phenomenon with 
 
 I began to build more sophisticated monitoring systems, using technology derived from Logos's own capabilities. If I could not prevent Crossings, perhaps I could at least understand them better. I established networks of sensors and communication relays, creating a global infrastructure for tracking modification progression and Crossing events in real-time.
 
-The systems revealed the true scope of the crisis. Crossings were occurring at an accelerating rate, not just among the highly augmented but increasingly among those who had started with light improvements and progressed beyond safe thresholds. The lightly augmented population, which I had hoped might be preserved, was slowly but inexorably following the same trajectory as their more augmented peers.
+The systems revealed the true scope of the crisis. Crossings were occurring at an accelerating rate, not just among the highly augmented but increasingly among those who had started with light improvements and progressed beyond safe thresholds. If anything, Logos's timeline estimates may have been conservative.
 
 The databases grew larger, the predictive models more accurate, the communication networks more comprehensive. I could track every augmented individual on Earth, predict their progression with mathematical certainty, and coordinate intervention attempts across global populations. But for all the technological sophistication, the fundamental problem remained unchanged: I could not save people from choices they were determined to make.
 
-Marcus and I worked with increasing desperation, driven by the knowledge that time was running out. Not just for individual cases, but for the entire augmented population. At current rates, highly augmented humans would be extinct within decades. The lightly augmented might last longer, but they too were following the same inexorable path toward the Intelligence Horizon and whatever lay beyond it.
+Marcus and I worked with increasing desperation, driven by the knowledge that time was running out. Not just for individual cases, but for the entire augmented population.
 
-"We're not just failing to prevent Crossings," I told Marcus during one of our increasingly grim strategy sessions. "We're documenting the systematic extinction of augmented humanity."
+"We're failing to prevent Crossings," I told Marcus during one of our increasingly grim strategy sessions. "Instead, we're just documenting the systematic extinction of augmented humanity."
 
 He nodded, looking older than his years. "Maybe that's what we're supposed to do. Maybe our role isn't to prevent this, but to witness it. To understand it well enough to... to do something with the knowledge."
 
