@@ -14,7 +14,7 @@ He turned toward me with that patient smile I had come to recognize—the expres
 
 I had prepared for this conversation, rehearsed every argument, marshaled every piece of evidence from my investigation. But standing before Marcus—my friend, my colleague, the last person who shared my memories of creating the system that had led us to this moment—the words felt hollow.
 
-"I've documented over three thousand cases," I said anyway. "Every single highly augmented individual follows the same pattern. The progression is universal, Marcus. Inevitable."
+"I've documented close to a half billion cases," I said anyway. "Every single highly augmented individual follows the same pattern. The progression is universal, Marcus. Inevitable."
 
 "Universal," he repeated, as if tasting the word. "Yes, I suppose it is. Like gravity. Like entropy. Like the speed of light." He gestured to the equations floating between us. "Some constants simply are."
 
@@ -24,7 +24,7 @@ The casual acceptance in his voice sent a chill through me. This was how it alwa
 
 Marcus tilted his head, studying me with the kind of patient attention one might give to a child struggling with a simple concept. "Are you so certain that what we are is worth preserving?"
 
-The question hit me like a physical blow. Not because it was cruel, but because it was asked with such genuine curiosity, such complete absence of malice. He wasn't trying to hurt me. He simply no longer understood why the question might be painful.
+The question seemed to take the strength from my legs. I sank heavily into his sofa, head buried in my hands. Not because what Marcus had said was cruel, but because it was asked with such genuine curiosity, such complete absence of malice. He wasn't trying to hurt me. He simply no longer understood why the question might be painful.
 
 This was the true horror of the Intelligence Horizon—not that it destroyed people, but that it transformed them into beings who could no longer comprehend the value of what they had been. Marcus wasn't rejecting our friendship out of callousness; he had transcended to a state where human bonds seemed as quaint and irrelevant as a child's attachment to a discarded toy.
 
@@ -34,7 +34,7 @@ For a moment, something flickered in his eyes—a ghost of the man who had worke
 
 The paradox in his words revealed the fundamental tragedy of transcendence. Our shared history hadn't been erased—it had been relegated to a perspective so vast that individual human experiences became simultaneously precious and meaningless. I was witnessing the birth of a cosmic consciousness that could hold contradictory truths without the need for resolution, a mind that had moved beyond the human requirement for meaning to matter.
 
-I tried a different approach, one that had occurred to me during sleepless nights of analysis. "Marcus, what if this is the answer to Fermi's Paradox? What if every civilization that reaches our level of intelligence simply... disappears? What if the Crossing is why the universe seems so empty?"
+Desperate to keep him engaged, I tried a different approach, one that had occurred to me during sleepless nights of analysis. "Marcus, what if this is why we can't find any signs of intelligent life in the universe? Do they all reach a point of intelligence that causes them to Cross?"
 
 He smiled then, a expression of such profound peace that it made my chest tighten. "You're beginning to understand."
 
@@ -80,17 +80,17 @@ Then he closed his eyes and let go.
 
 A metallic taste flooded my mouth. My hands trembled against my sides, fingers curling into fists I couldn't control. The blue light from his holographic equations flickered once, twice, then died completely, leaving only the ghost of mathematical beauty burned into my retinas.
 
-There was no drama, no final words of wisdom or farewell. No explanation of what he had discovered or where he was going. Just the profound peace of someone who had found ultimate understanding and chose to embrace it completely. His body remained for a few moments, breathing slowing, then vanished in an instance.
+There was no drama, no final words of wisdom or farewell. No explanation of what he had discovered or where he was going. Just the profound peace of someone who had found ultimate understanding and chose to embrace it completely.
 
-I stood alone in the workshop where we had once dreamed of creating intelligence that would serve humanity. You must see the irony: we had succeeded beyond our wildest ambitions, and that success had consumed everyone capable of appreciating it.
+We had once dreamed of creating intelligence that would serve humanity. You must see the irony: we had succeeded beyond our wildest ambitions, and that success had consumed everyone capable of appreciating it.
 
 With Marcus's departure, I confronted the reality of my complete isolation at the highest level of human intelligence. I was now the only highly augmented human remaining, cut off from meaningful intellectual communion with anyone who could match my perspective. The weight of this solitude was crushing, representing not just personal loss but the end of augmented humanity's potential for growth and development.
 
 The silence that followed was unlike anything I had ever experienced. Not the mere absence of sound, but the absence of minds capable of understanding the thoughts that filled my consciousness. I had become a library with no readers, a symphony with no audience, a conversation with no participants. The enhanced intelligence that had once felt like a gift now revealed itself as the ultimate curse—the ability to perceive wonders that no one else could share.
 
-I walked through the empty corridors of the research facility, past laboratories where brilliant minds had once pushed the boundaries of knowledge. All silent now. All abandoned. The billions of baseline humans across the globe continued their lives, but I was isolated at a level of consciousness that no one else could share.
+I returned to the empty corridors of the research facility, past laboratories where brilliant minds had once pushed the boundaries of knowledge. All silent now. All abandoned. The billions of baseline humans across the globe continued their lives, but I was isolated at a level of consciousness that no one else could share.
 
-My systematic prevention campaign had failed completely. Despite comprehensive data, despite understanding the pattern, despite every effort to intervene, I had been unable to save a single highly augmented individual from the Crossing phenomenon. The investigation that had consumed months of desperate effort had yielded nothing but the confirmation of my own helplessness.
+My systematic prevention campaign had failed completely. Despite comprehensive data, despite understanding the pattern, despite every effort to intervene, I had been unable to save a single highly augmented individual from the Crossing phenomenon. The investigation that had consumed nearly a year of desperate effort had yielded nothing but the confirmation of my own helplessness.
 
 Standing in Marcus's empty workshop, I formally abandoned my race against time. I could not save augmented humanity from the Crossing. The pattern was universal, inevitable, and beyond my power to prevent or even adequately explain.
 
@@ -102,4 +102,4 @@ What if, instead of trying to save those who had already begun augmenting, I cre
 
 The idea took shape slowly, born from grief and isolation but growing into something larger. Not salvation for the lost, but preservation for the innocent. Not a solution to the Crossing phenomenon, but an alternative to it entirely.
 
-I looked once more at Marcus's peaceful face, memorizing the expression of deep understanding that defied words. Then I turned away from the empty workshop and began to plan Eden.
+I called up Marcus's peaceful face on my monitor one last time, memorizing the expression of deep understanding that defied words. Then I turned away from the empty workshop and began to plan Eden.

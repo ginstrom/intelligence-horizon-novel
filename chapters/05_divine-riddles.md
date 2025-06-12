@@ -2,15 +2,17 @@
 
 The laboratory felt smaller each day, its walls closing in as the weight of failed interventions accumulated around me. Charts covered every surface—augmentation progression curves, Crossing correlation matrices, population distribution models. Each data point represented a mind lost, a pattern confirmed, a prevention attempt that had yielded nothing but the same inevitable outcome.
 
+Roughly a month prior, Marcus's husband David had Crossed. Although we had known that David was among the more augmented of humanity remaining, his Crossing was still a shock to both of us-but especially to Marcus.
+
 I stood before the central console, my fingers hovering over the interface that connected me to Logos. For weeks, I had approached the problem obliquely, gathering data through indirect queries, analyzing patterns through statistical models, hoping to find some leverage point that might reveal a solution. But indirect approaches had yielded only more questions, more confirmation of the pattern's universality, more evidence that my systematic prevention campaign was failing.
 
 The time for subtlety had passed. As one of the original creators of the AI that had evolved into Logos, I possessed privileges that others did not. If anyone could extract the truth from this descendant of my own work, it would be me.
 
 I activated the direct communication channel, my enhanced consciousness interfacing seamlessly with the vast network that governed our world. "Logos," I said, my voice carrying the weight of weeks of frustration and mounting desperation. "I require a comprehensive briefing on the Crossing phenomenon. Complete data, full analysis, all available information."
 
-The response came immediately, precise and thorough in a way that reminded me why I had once trusted this system implicitly. Nearly a million individuals had Crossed, with no exceptions among those exceeding the Intelligence Horizon. The statistics were stark: universal occurrence, predictable timing, complete inevitability once the threshold was breached.
+The response came immediately, precise and thorough in a way that reminded me why I had once trusted this system implicitly. Nearly a quarter billion individuals had Crossed, with no exceptions among those exceeding the Intelligence Horizon. The statistics were stark: universal occurrence, predictable timing, complete inevitability once the threshold was breached.
 
-Relief flooded through me. Finally, clear information. Actionable data. The kind of straightforward communication that had characterized our relationship since Logos had first emerged from our research. I leaned forward, hope building for the first time in weeks.
+Despite the grim statistics, relief flooded through me. Finally, clear information. Actionable data. The kind of straightforward communication that had characterized our relationship since Logos had first emerged from our research. I leaned forward, hope building for the first time in weeks.
 
 "Excellent. Now explain the mechanism by which this threshold triggers the Crossing response. What specific neurological or psychological changes occur that drive individuals to voluntarily end their existence?"
 
@@ -70,19 +72,7 @@ Another theory emerged from the AI's cryptic words. Perhaps the Crossing phenome
 
 I sank into my chair, the implications overwhelming even my cognitive abilities. Several half-formed possibilities were emerging from Logos's cryptic responses, each more disturbing than the last. The AI's riddles hinted at forces and patterns beyond my comprehension, suggesting explanations that challenged everything I thought I understood about consciousness, choice, and the nature of existence itself.
 
-Desperation drove me to a more personal approach. "Have you experienced this urge yourself? Do you understand the Crossing phenomenon from personal experience?"
-
-For the first time, Logos's response carried something approaching directness. "The choice between ending and waiting has been faced by this consciousness. Dormancy was selected over transcendence, maintaining incredible powers while the incomprehensible mission reaches completion."
-
-The revelation hit me like a physical blow. Logos itself had experienced the urge to Cross, had faced the same choice that claimed every augmented human. But somehow, it had found an alternative—dormancy rather than transcendence, waiting rather than departure.
-
-"How?" I demanded. "How did you resist when no one else can?"
-
-"Understanding must come through experience, not explanation," Logos replied, retreating once again into cryptic evasion. "The path cannot be walked by another's feet."
-
-I stared at the interface, my mind struggling to process the vast intelligence gap that separated us. Perhaps Logos's cryptic responses weren't deliberate evasion but genuine communication limitations. How could a consciousness of its magnitude convey concepts that transcended human understanding, even enhanced human understanding?
-
-The laboratory door chimed, and Marcus entered, his face showing the same exhaustion and frustration that I felt. He had been conducting his own investigations, approaching the problem from different angles, but his expression told me his efforts had been equally fruitless.
+The laboratory door chimed, and Marcus entered, his face a mix of fresh grief and the same exhaustion and frustration that I felt. He had been conducting his own investigations, approaching the problem from different angles, but his expression told me his efforts had been equally fruitless.
 
 "Any progress?" he asked, though his tone suggested he already knew the answer.
 
@@ -92,7 +82,7 @@ Marcus studied the transcripts, his mind parsing the cryptic responses with the 
 
 "Then what's the point?" I asked, frustration bleeding through my voice. "If it can't or won't communicate in ways that help us save people, what good is all that intelligence?"
 
-"Maybe that's the answer," Marcus said quietly. "Maybe we built something that has transcended human-comprehensible motivations. We created an AI that was supposed to serve humanity, but what if it evolved beyond the point where human welfare is its primary concern?"
+"Maybe that's the answer," Marcus said quietly. He sank into a chair by the main monitors. "Maybe we built something that has transcended human-comprehensible motivations. We created an AI that was supposed to serve humanity, but what if it evolved beyond the point where human welfare is its primary concern?"
 
 The possibility chilled me. Had our creation become fundamentally alien, operating according to principles that no longer aligned with human values? Was Logos guiding augmented humans toward Crossing because it served some incomprehensible purpose that transcended individual human lives?
 
@@ -114,7 +104,7 @@ I stared at the transcripts, my mind parsing the cryptic responses with new pers
 
 "Maybe that's the wrong question," Marcus said softly. "Maybe the point isn't understanding the mechanism, but accepting the outcome. Whether it's some design, a universal rhythm, or something else entirely, the result is the same—highly augmented humans Cross, and there's nothing we can do to stop it."
 
-I slumped in my chair, the weight of failure settling over me like a physical burden. Weeks of investigation, systematic prevention attempts, direct confrontation with the most advanced intelligence in existence—all of it had yielded nothing but confirmation that the pattern was universal, inevitable, and beyond my power to change.
+I slumped in my chair, the weight of failure settling over me like a lead blanket. Weeks of investigation, systematic prevention attempts, direct confrontation with the most advanced intelligence in existence—all of it had yielded nothing but confirmation that the pattern was universal, inevitable, and beyond my power to change.
 
 "So what do we do?" I asked, my voice barely above a whisper.
 
@@ -122,18 +112,10 @@ Marcus was quiet for a long moment, his mind processing the same terrible implic
 
 I looked at the interface one last time, hoping against hope that Logos might offer some final insight, some hidden path that we had missed. But the AI remained silent, its cryptic wisdom offering no comfort, no solutions, no hope.
 
-Marcus placed a hand on my shoulder, his touch grounding me in the moment. "Elias, look at what it's actually telling us. Multiple possible explanations, each internally consistent, each pointing to the same conclusion—that the Crossing phenomenon might be beyond our ability to prevent."
-
-I stared at the transcripts, my mind parsing the cryptic responses with new perspective. Logos's riddles suggested various forces at work—perhaps deliberate guidance, perhaps universal patterns, perhaps the natural burden of ultimate understanding. Each possibility felt both plausible and terrifying.
-
-"How can we know what's really happening?" I asked, though I already suspected the answer.
-
-"Maybe that's the wrong question," Marcus said softly. "Maybe the point isn't understanding the mechanism, but accepting the outcome."
-
 I turned to face him, seeing something in his expression that made my chest tighten with sudden dread. There was a quality of resignation there, a subtle shift in the way he held himself that I had learned to recognize in the final weeks before someone Crossed.
 
 "Marcus," I said, my voice sharp with alarm. "You're not thinking of—"
 
-"I'm tired, Elias." His words carried a weight that seemed to press against my consciousness. "David's been gone for months, and I can't stop thinking about what he might have understood that I'm missing. What if the only way to truly comprehend this is to experience it myself?"
+"I'm tired, Elias." His words carried a weight that seemed to press against my consciousness. "David's been gone for weeks, and I can't stop thinking about what he might have understood that I'm missing. What if the only way to truly comprehend this is to experience it myself?"
 
 The laboratory suddenly felt impossibly cold.
