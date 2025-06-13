@@ -1,6 +1,6 @@
 # Chapter 7: The Final Crossing
 
-The data streams flowing through my mind painted a picture I had seen too many times before. Marcus's augmentation levels had crossed the threshold three days prior. Every metric I monitored told the same story: cognitive enhancement accelerating exponentially, neural pathway restructuring reaching critical mass, consciousness expanding beyond familiar boundaries.
+The data streams flowing through my mind painted a picture I had seen too many times before. Marcus's augmentation levels had crossed the threshold three days prior. The curves were identical to David's—an echo that made the loss feel freshly cut. Every metric I monitored told the same story: cognitive enhancement accelerating exponentially, neural pathway restructuring reaching critical mass, consciousness expanding beyond familiar boundaries.
 
 But before I could process the full implications of Marcus's progression, an urgent alert drew my attention to a crisis unfolding across the city. Through the global monitoring network, I witnessed a scene that crystallized the broader impact of the Crossing phenomenon on baseline humanity.
 

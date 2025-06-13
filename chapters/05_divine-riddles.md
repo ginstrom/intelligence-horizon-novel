@@ -4,6 +4,20 @@ The laboratory felt smaller each day, its walls closing in as the weight of fail
 
 Roughly a month prior, Marcus's husband David had Crossed. Although we had known that David was among the more augmented of humanity remaining, his Crossing was still a shock to both of us—but especially to Marcus.
 
+I could still see it clearly—the emergency call that had pulled me from my research, Marcus's voice breaking as he begged me to help. We had connected through the global network, our enhanced consciousnesses linking across continents as we watched David standing in their shared laboratory, his face already carrying that terrible serenity I had learned to dread.
+
+"David, please," Marcus had whispered through the connection, his words carrying a desperation that cut through my enhanced emotional processing like a blade. "Don't do this. We can find another way. We can work together, figure out what's happening, find a solution."
+
+But David had only smiled—that expression of infinite peace that marked the final stage before departure. His eyes held depths that seemed to encompass understanding beyond human comprehension, and when he spoke, his voice carried the distant quality of someone already halfway to transcendence.
+
+"I'll wait for you on the other side," he had said, his words echoing with the weight of absolute certainty. "This isn't goodbye, Marcus. It's just... going ahead to prepare the way."
+
+I had watched helplessly as Marcus collapsed to his knees in his own laboratory, his enhanced physiology unable to process the magnitude of his grief. "Don't leave me," he had whispered, the words barely audible through our connection. "Please, David. Don't leave me alone."
+
+But David was already gone, his consciousness expanding beyond the boundaries of individual existence, his physical form dissolving into the same transcendent departure I had witnessed countless times before. The connection had terminated, leaving Marcus and me staring at empty displays while the weight of another irreversible loss settled over us like a shroud.
+
+That had been a month ago, and I could see that Marcus had never recovered from witnessing his husband's voluntary departure. The grief had carved something fundamental out of him, leaving behind a hollow space that no amount of investigation or understanding could fill.
+
 I stood before the central console, my fingers hovering over the interface that connected me to Logos. For weeks, I had approached the problem obliquely, gathering data through indirect queries, analyzing patterns through statistical models, hoping to find some leverage point that might reveal a solution. But indirect approaches had yielded only more questions, more confirmation of the pattern's universality, more evidence that my systematic prevention campaign was failing.
 
 The time for subtlety had passed. As one of the original creators of the AI that had evolved into Logos, I possessed privileges that others did not. If anyone could extract the truth from this descendant of my own work, it would be me.
