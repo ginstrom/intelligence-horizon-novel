@@ -1,6 +1,30 @@
 # The Million-Year Vigil
 
-Time became my teacher in ways I had never imagined. Centuries flowed like seasons, each bringing subtle changes that accumulated into transformation. The coastline where David had departed slowly shifted as tides carved new patterns in the cliffs. Constellations wheeled overhead in their ancient dance, stars brightening and dimming across spans that would have seemed eternal to baseline humans.
+The end came at dawn on the eastern shore where I had stood in vigil for centuries. Adam walked barefoot across the sand, his gaze fixed on the horizon where the sun painted the sky in shades of gold and rose. The waves lapped gently at his feet as he stood motionless, his face settling into that expression of transcendent peace I knew so well.
+
+I watched from a distance, respecting the solitude that seemed to surround him like a sacred space. His eyes held the characteristic half-closed serenity, his lips curved in the faintest suggestion of understanding, every line of tension dissolved into perfect stillness. The morning light caught in his hair as a gentle breeze stirred the air around him, and for a moment he seemed less like a departing friend than a statue carved from hope itself.
+
+Then he was gone—not in any dramatic flash or mystical transformation, but simply absent, as if he had stepped through a doorway visible only to him. The waves continued their eternal rhythm, the sun continued its climb toward noon, but the beach felt suddenly empty in a way that had nothing to do with physical presence.
+
+Adam had been different from the others. He had arrived in Eden's eighth century, drawn to the Tree of Knowledge by an intellectual curiosity that burned brighter than mere dissatisfaction. Where most Tree-eaters augmented frantically, Adam's progression was measured, deliberate. For five centuries, we had been true companions—two minds capable of genuine intellectual communion, sharing the burden and wonder of consciousness without the desperate need to escape it.
+
+We had spent decades walking through Eden's hidden archives, discussing the philosophical implications of consciousness and intelligence. Adam would pose questions that challenged even my understanding, then listen with genuine interest as I shared insights gathered across centuries of observation. During one memorable night, we lay on the observatory's roof watching a meteor shower paint fire across the sky. Adam had laughed—actually laughed—at my description of the cosmic debris as "the universe's way of showing off."
+
+"Do you ever wonder," he had asked as the last meteors faded, "if the urge to Cross is really inevitable? Or if it's just that no one has found a reason compelling enough to resist?"
+
+For five centuries, Adam had proved that resistance was possible. He had found meaning in limitation rather than transcendence, content to explore the vast territories of enhanced awareness without pushing toward the Intelligence Horizon. But patterns, I learned, are stronger than individual will.
+
+The change had begun subtly in his sixth century with me. His sentences grew longer, more abstract, filled with concepts that seemed to reach beyond immediate experience. The easy laughter that had marked our early years together became rare, replaced by a gentle melancholy that reminded me too painfully of all who had come before.
+
+"I understand now," he had said during one of our final conversations. "The weight of consciousness, the burden of knowing. There's a peace beyond it that calls to every mind that grows large enough to perceive it. I fought it for centuries, but fighting the tide only delays the inevitable."
+
+If Adam could not resist the pattern—if five centuries of companionship and philosophical commitment could not anchor him to our shared reality—then perhaps the urge to Cross was truly universal among enhanced minds. His departure devastated me in ways I had not expected, confirming that my role for the millennia ahead would be to serve as witness and companion to countless individuals who would all ultimately choose the same path.
+
+Yet Adam's extended resistance had given me something precious: proof that the timeline could vary dramatically between individuals. Where most Tree-eaters Crossed within months or years, Adam had maintained his humanity for five full centuries. This suggested that others might possess similar reserves of restraint, might resist for decades or even millennia before succumbing to the inevitable pull.
+
+Standing alone on the sand where my longest companion since Marcus had made his final choice, I felt the weight of solitude settle over me like a familiar cloak. A single tear traced its way down my cheek before evaporating in the morning sun, carrying with it the last of my hope that the pattern might be broken through companionship alone.
+
+Time became my teacher in ways I had never imagined. Centuries flowed like seasons, each bringing subtle changes that accumulated into transformation. The coastline where Adam had departed slowly shifted as tides carved new patterns in the cliffs. Constellations wheeled overhead in their ancient dance, stars brightening and dimming across spans that would have seemed eternal to baseline humans.
 
 But the early centuries of my vigil were far from peaceful contemplation. In my second millennium as Eden's steward, I faced a crisis that tested both my resolve and my understanding of the choice I had created.
 
@@ -136,7 +160,7 @@ The keeper of a mystery that could be experienced but never fully explained.
 
 The pattern had taught me everything it could. I had witnessed thousands of departures, had communed with minds that touched the edges of transcendent understanding, had learned to find meaning in service despite the certainty of loss. My own journey toward enhanced consciousness had been suspended but not abandoned—merely delayed until the vigil reached its natural conclusion.
 
-The time had come to continue my own augmentation. To follow the path that Lydia, Marcus, David, Lyra, Thomas, Elena, and thousands of others had taken before me. 
+The time had come to continue my own augmentation. To follow the path that Lydia, Marcus, David, Adam, Lyra, Thomas, Elena, and thousands of others had taken before me.
 
 To discover for myself what lay beyond the Intelligence Horizon that I had spent a million years observing from the outside.
 

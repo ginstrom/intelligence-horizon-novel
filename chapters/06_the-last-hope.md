@@ -179,3 +179,9 @@ I left his apartment that evening knowing I would never see him again as the per
 The laboratory felt emptier than ever when I returned. My monitoring systems tracked Marcus's continued progression toward the Intelligence Horizon, each data point confirming what I already knew with terrible certainty. Within days, perhaps hours, he would make the same choice as everyone else, leaving me truly alone in a world that had moved beyond my comprehension.
 
 I tried to focus on my research, to find some final angle I hadn't explored, some last desperate intervention that might save him. But the equations blurred before my eyes, the data streams becoming meaningless noise as I waited for the inevitable.
+
+But perhaps there was another approach entirely.
+
+I thought of the billions of baseline humans who faced no Intelligence Horizon, no irresistible drift beyond the threshold of transcendence. They remained gloriously, stubbornly human in all their messy, contradictory, beautiful complexity. What if, instead of trying to save those who had already begun augmenting, I created a sanctuary for those who had not? A place where the augmentation cycle could never begin, where humanity could flourish without the temptation of enhancement, where the choice that had consumed everyone I cared about would simply not exist?
+
+The idea crystallized with startling clarity, carrying all the weight of humanity's oldest story about paradise and choice. I would create Eden.

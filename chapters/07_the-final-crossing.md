@@ -110,12 +110,6 @@ My systematic prevention campaign had failed completely. Despite comprehensive d
 
 Standing in Marcus's empty workshop, I formally abandoned my race against time. I could not save augmented humanity from the Crossing. The pattern was universal, inevitable, and beyond my power to prevent or even adequately explain.
 
-But perhaps there was another approach.
-
-I thought of the billions of baseline humans who faced no Intelligence Horizon, no irresistible drift beyond the threshold. They remained gloriously, stubbornly human in all their messy, contradictory, beautiful complexity.
-
-What if, instead of trying to save those who had already begun augmenting, I created a sanctuary for those who had not? A place where the augmentation cycle could never begin, where humanity could flourish without the temptation of enhancement, where the choice that had consumed everyone I cared about would simply not exist?
-
-The idea took shape slowly, born from grief and isolation but growing into something larger. Not salvation for the lost, but preservation for the innocent. Not a solution to the Crossing phenomenon, but an alternative to it entirely.
+The idea I had conceived in those final moments with the investigation's failure now demanded action. Not salvation for the lost, but preservation for the innocent. Not a solution to the Crossing phenomenon, but an alternative to it entirely.
 
 I called up Marcus's peaceful face on the monitor one last time, memorizing the expression of deep understanding that defied words. Then I turned away from the empty workshop. I never visited it again.
