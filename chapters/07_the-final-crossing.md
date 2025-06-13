@@ -2,7 +2,23 @@
 
 The data streams flowing through my mind painted a picture I had seen too many times before. Marcus's augmentation levels had crossed the threshold three days prior. Every metric I monitored told the same story: cognitive enhancement accelerating exponentially, neural pathway restructuring reaching critical mass, consciousness expanding beyond familiar boundaries.
 
-I found him in his workshop, the same space where we had once collaborated on the early AI architectures that would eventually become Logos. He stood before a holographic display showing quantum field equations that would have taken me hours to parse, his fingers dancing through the mathematical structures with fluid grace. The sight should have filled me with wonder at human potential. Instead, it filled me with dread.
+But before I could process the full implications of Marcus's progression, an urgent alert drew my attention to a crisis unfolding across the city. Through the global monitoring network, I witnessed a scene that crystallized the broader impact of the Crossing phenomenon on baseline humanity.
+
+At Metropolitan General Hospital, physicians were failing to show up for their shifts; of those who did show, some were leaving mid-shift without a word. Now the hospital staff was down to a third of its required level.
+
+Logos' automated systems were able to cover much of the personnel shortages, but the system was designed for humans to have a prominent role; their sudden disappearance had thrown the hospital into chaos.
+
+Attending physicians dropped all normal care to staff the emergency services. Patients coming to the hospital for routine care were being directed to Logos' automated medical services, but many people still did not trust machines for their medical care and wanted a human connection.
+
+Many patients walked out and sought care in other hospitals, but it turned out that all medical facilities were facing staff shortages, although they were not yet as severe as Metro General's.
+
+The story was picked up on news channels worldwide as an example of a growing phenomenon. The most advanced medical facility in the region, designed to operate with superhuman efficiency, had been reduced to emergency care provided by baseline humans and the few lightly augmented individuals who had resisted the call to transcendence.
+
+The scene at Metropolitan General was replaying across the globe—institutions collapsing, baseline humanity struggling to maintain systems they had never been designed to operate. The Crossing phenomenon wasn't just claiming individual minds; it was dismantling the foundations of augmented civilization itself.
+
+Watching the hospital's struggle through the monitoring networks, I felt the weight of my own isolation more acutely than ever.
+
+I found Marcus in his workshop, the same space where we had once collaborated on the early AI architectures that would eventually become Logos. He stood before a holographic display showing quantum field equations that would have taken me hours to parse, his fingers dancing through the mathematical structures with fluid grace. The sight should have filled me with wonder at human potential. Instead, it filled me with dread.
 
 "Marcus," I said, stepping into the room. "We need to talk."
 
@@ -102,4 +118,4 @@ What if, instead of trying to save those who had already begun augmenting, I cre
 
 The idea took shape slowly, born from grief and isolation but growing into something larger. Not salvation for the lost, but preservation for the innocent. Not a solution to the Crossing phenomenon, but an alternative to it entirely.
 
-I called up Marcus's peaceful face on my monitor one last time, memorizing the expression of deep understanding that defied words. Then I turned away from the empty workshop and began to plan Eden.
+I called up Marcus's peaceful face on the monitor one last time, memorizing the expression of deep understanding that defied words. Then I turned away from the empty workshop. I never visited it again.

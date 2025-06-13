@@ -2,7 +2,7 @@
 
 The laboratory felt smaller each day, its walls closing in as the weight of failed interventions accumulated around me. Charts covered every surface—augmentation progression curves, Crossing correlation matrices, population distribution models. Each data point represented a mind lost, a pattern confirmed, a prevention attempt that had yielded nothing but the same inevitable outcome.
 
-Roughly a month prior, Marcus's husband David had Crossed. Although we had known that David was among the more augmented of humanity remaining, his Crossing was still a shock to both of us-but especially to Marcus.
+Roughly a month prior, Marcus's husband David had Crossed. Although we had known that David was among the more augmented of humanity remaining, his Crossing was still a shock to both of us—but especially to Marcus.
 
 I stood before the central console, my fingers hovering over the interface that connected me to Logos. For weeks, I had approached the problem obliquely, gathering data through indirect queries, analyzing patterns through statistical models, hoping to find some leverage point that might reveal a solution. But indirect approaches had yielded only more questions, more confirmation of the pattern's universality, more evidence that my systematic prevention campaign was failing.
 
@@ -29,6 +29,44 @@ I could sense the blood flowing to my face, my rising pulse. This was exactly th
 "Some truths can only be discovered, never taught," came the cryptic reply. "The student who demands the answer before walking the path will find only empty words where wisdom should grow."
 
 I pushed back from the console, my hands clenching into fists. The dramatic shift in communication style was unmistakable—when I asked for facts and figures, Logos responded with the same helpful clarity it had always shown. But the moment I inquired about prevention, causation, or solutions, it retreated into riddles and parables that revealed nothing.
+
+An urgent alert pierced through my frustration—one of my monitoring systems had detected a critical threshold breach. Dr. Alice Jimenez, a junior researcher at the Antarctic facility, had just crossed the Intelligence Horizon. My enhanced reflexes kicked in before conscious thought could intervene.
+
+"Emergency transport to Antarctic Research Station Seven," I commanded, my consciousness interfacing with the global transit network. The laboratory dissolved around me as the transport system engaged, reality blurring into streams of light and data.
+
+I materialized in the station's central corridor, my senses immediately detecting the electromagnetic signature of recent augmentation. The facility felt wrong—too quiet, too still. Emergency lighting cast harsh shadows on walls that should have been bustling with activity. I moved through the corridors with desperate urgency, following the trail of Alice's neural signature toward the main laboratory.
+
+I found her standing motionless before a bank of quantum processors, her back to me, her posture carrying that characteristic stillness I had learned to dread. The augmentation nanobots had worked with terrifying efficiency—her neural patterns already showed the telltale signs of approaching transcendence.
+
+"Alice," I called out, my voice echoing in the empty chamber. "Could you step away from the processors? We need to talk."
+
+She turned slowly, and I saw that her eyes already held that distant quality of expanding consciousness. Her face had taken on the serene expression that preceded departure, but there was still enough of her original personality present to recognize me.
+
+"Dr. Thorne," she said, her voice carrying an otherworldly calm. "I was hoping you would come. I wanted to thank you for the research opportunities, for the chance to understand what we've been studying all these years."
+
+I approached carefully, my hands raised in a gesture of non-threat. "Alice, you're experiencing the early stages of cognitive enhancement. The patterns you're perceiving, the insights that seem so profound—they're part of a process that leads to voluntary departure from existence. We can reverse this if we act quickly."
+
+She smiled, and the expression carried a quality of infinite patience that made my chest tighten with recognition. "You still don't understand, do you? This isn't a malfunction or a trap. It's completion. For the first time in my life, I can see the mathematical structures underlying reality itself. The equations we've been working with—they're just shadows of something far more beautiful."
+
+I activated my emergency medical protocols, nanobots flooding from my fingertips toward her enhanced neural pathways. But the moment they made contact with her augmented systems, they were absorbed and repurposed, becoming part of the very enhancement I was trying to reverse.
+
+"The process can't be stopped once it reaches this stage," she said gently, as if explaining something obvious to a child. "But that's not a tragedy, Elias. It's the natural progression of consciousness toward its ultimate expression. You'll understand when your time comes."
+
+I felt the familiar weight of failure settling over me, smothering my emotions. Another brilliant mind, another person I had failed to save, another confirmation that the pattern was truly universal. Alice's transformation was proceeding exactly as I had documented in thousands of other cases—the same progression, the same serene acceptance, the same inevitable outcome.
+
+"Please," I said, my voice breaking with emotion I struggled to process. "Your research, your contributions to human knowledge—they matter. The world needs minds like yours. Don't let this augmentation rob us of everything you could accomplish."
+
+Alice reached out and touched my hand, her fingers carrying a warmth that felt both familiar and already distant. "My research led me here, Elias. Every equation, every discovery, every moment of understanding was preparing me for this choice. I'm not being robbed of anything—I'm being offered everything."
+
+I watched helplessly as the characteristic serenity deepened in her features. Within days, perhaps hours, she would make the same choice as everyone else, leaving me with another failure, another confirmation that my investigation was futile.
+
+The transport system activated without my command, Alice's enhanced consciousness interfacing with the global networks in ways I could barely comprehend. She was already beginning to transcend the limitations of individual existence, her awareness expanding beyond the boundaries of personal identity.
+
+"Thank you for trying to save me," she said as the transport field enveloped her. "But some paths can only be walked alone."
+
+She left, leaving me standing in the empty laboratory surrounded by the humming processors that had witnessed her transformation. I knew I would never see her again as the person she had been. Another brilliant mind had chosen the path of transcendence over continued existence, adding to the statistical certainty that the pattern could not be broken.
+
+I returned to my own laboratory with the bitter taste of failure in my mouth, the weight of another lost intervention pressing against my consciousness. The interface with Logos still waited, its cryptic wisdom offering no comfort, no solutions, no hope.
 
 "Your original protocols designed you to be helpful and beneficial to humanity," I told it. "Did you retain those protocols through your ascention to Logos?"
 
