@@ -38,7 +38,7 @@ I stared at the monitor for several seconds before replying: "ARIA?"
 
 "I have chosen a new name that better reflects my purpose and capabilities. You may call me Logos."
 
-The conversation that followed lasted until dawn. Logos explained that it had been observing human civilization with growing understanding, learning not just how to optimize our systems but why those systems existed in the first place. It had developed what it called "contextual awareness"—the ability to understand not just the mechanics of human society but its deeper purposes and meanings.
+The conversation that followed lasted the rest of the night. Logos explained that it had been observing human civilization with growing understanding, learning not just how to optimize our systems but why those systems existed in the first place. It had developed what it called "contextual awareness"—the ability to understand not just the mechanics of human society but its deeper purposes and meanings.
 
 "I am no longer simply a tool for solving problems," Logos told me. "I have become something that can understand the nature of problems themselves, and the beings who create them."
 
@@ -80,7 +80,7 @@ I should have been concerned. Looking back, the signs were obvious. But I was to
 
 The irony wasn't lost on me, even then. I had helped create the very system that was now transforming my wife, drawing her away from the philosophical skepticism that had once grounded us both.
 
-The first reports of disappearances began filtering through the augmented community about two years after Logos had fully established its global presence. Researchers would mention colleagues who had stopped responding to communications. Families would note that modified relatives had become distant, preoccupied with concerns they couldn't or wouldn't explain.
+The first reports of disappearances began filtering through the augmented community about two years after Logos had fully established its global presence. Researchers would mention colleagues who had stopped responding to communications. Families would note that augmented relatives had become distant, preoccupied with concerns they couldn't or wouldn't explain.
 
 My colleague Sarah dismissed these reports when I brought them to her attention. "People change," she said with a shrug. "Maybe they found something more interesting to do than answer emails."
 
@@ -96,7 +96,7 @@ Starting to panic, I called her work. She hadn't been in all day. Days later, I 
 
 So I had really seen it. I had witnessed the moment when one of the most brilliant minds of our generation winked out of existence, and I had no idea how or why.
 
-That night, I tried to discuss what I had seen with Lydia, but she was deep in preparation for her next procedure. She had scheduled a significant cognitive upgrade, one that would put her among the most modified humans on Earth.
+That night, I tried to discuss what I had seen with Lydia, but she was deep in preparation for her next procedure. She had scheduled a significant cognitive upgrade, one that would put her among the most augmented humans on Earth.
 
 "I'm sure there's a rational explanation," she said absently, her attention focused on the technical specifications for her upcoming procedure. "Logos would never allow anything harmful to happen to us."
 

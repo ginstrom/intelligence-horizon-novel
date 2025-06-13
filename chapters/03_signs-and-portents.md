@@ -18,7 +18,7 @@ I found her in our kitchen the next morning, preparing breakfast with the method
 
 "Lydia," I said, trying to keep my voice steady. "We need to talk about your upcoming procedure."
 
-She looked up from her work, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves's face moments before her disappearance.
+She looked up from her morning routine, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves's face moments before her disappearance.
 
 "Of course, Elias. What concerns you?"
 
