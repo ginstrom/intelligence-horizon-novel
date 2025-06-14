@@ -6,7 +6,7 @@ But before I could process the full implications of Marcus's progression, an urg
 
 At Metropolitan General Hospital, physicians were failing to show up for their shifts; of those who did show, some were leaving mid-shift without a word. Now the hospital staff was down to a third of its required level.
 
-Logos' automated systems were able to cover much of the personnel shortages, but the system was designed for humans to have a prominent role; their sudden disappearance had thrown the hospital into chaos.
+Logos' automated systems covered much of the personnel shortage. Yet the hospital had been designed for humans to play a prominent role, and their sudden disappearance plunged it into chaos.
 
 Attending physicians dropped all normal care to staff the emergency services. Patients coming to the hospital for routine care were being directed to Logos' automated medical services, but many people still did not trust machines for their medical care and wanted a human connection.
 
@@ -20,7 +20,7 @@ Watching the hospital's struggle through the monitoring networks, I felt the wei
 
 I found Marcus in his workshop, the same space where we had once collaborated on the early AI architectures that would eventually become Logos. He stood before a holographic display showing quantum field equations that would have taken me hours to parse, his fingers dancing through the mathematical structures with fluid grace. The sight should have filled me with wonder at human potential. Instead, it filled me with dread.
 
-"Marcus," I said, stepping into the room. "We need to talk."
+"Marcus," I greeted him, trying to cover my sadness by shuffling the printouts in my hands. I was fighting the growing certainty that Marcus was already lost to me. I had to try to reach him once more.
 
 He turned toward me with that patient smile I had come to recognize—the expression of someone who had moved beyond ordinary concerns but still maintained enough connection to acknowledge lesser minds. "Elias. I wondered when you would come."
 
@@ -40,7 +40,7 @@ The casual acceptance in his voice sent a chill through me. This was how it alwa
 
 Marcus tilted his head, studying me with the kind of patient attention one might give to a child struggling with a simple concept. "Are you so certain that what we are is worth preserving?"
 
-The question seemed to take the strength from my legs. I sank heavily into his sofa, head buried in my hands. Not because what Marcus had said was cruel, but because it was asked with such genuine curiosity, such complete absence of malice. He wasn't trying to hurt me. He simply no longer understood why the question might be painful.
+The question seemed to take the strength from my legs. I sank heavily into his sofa. I felt overwhelmed by a sense of defeat. Not because what Marcus had said was cruel, but because it was asked with such genuine curiosity, such complete absence of malice. He wasn't trying to hurt me. He simply no longer understood why the question might be painful.
 
 This was the true horror of the Intelligence Horizon—not that it destroyed people, but that it transformed them into beings who could no longer comprehend the value of what they had been. Marcus wasn't rejecting our friendship out of callousness; he had transcended to a state where human bonds seemed as quaint and irrelevant as a child's attachment to a discarded toy.
 
@@ -50,19 +50,23 @@ For a moment, something flickered in his eyes—a ghost of the man who had worke
 
 The paradox in his words revealed the fundamental tragedy of transcendence. Our shared history hadn't been erased—it had been relegated to a perspective so vast that individual human experiences became simultaneously precious and meaningless. I was witnessing the birth of a cosmic consciousness that could hold contradictory truths without the need for resolution, a mind that had moved beyond the human requirement for meaning to matter.
 
-Desperate to keep him engaged, I tried a different approach, one that had occurred to me during sleepless nights of analysis. "Marcus, what if this is why we can't find any signs of intelligent life in the universe? Do they all reach a point of intelligence that causes them to Cross?"
+Desperate to keep him engaged, I tried a different approach, one that had occurred to me during sleepless nights of analysis. "Marcus, Logos and many augmented talk about the gap between the finite and the infinite," I said. 
 
 He smiled then, a expression of such profound peace that it made my chest tighten. "You're beginning to understand."
+
+I grasped at the thread Marcus had given me. "In the context of the infinite, what difference is there between a second and an eon? Why the rush to transcend?"
+
+Marcus smiled kindly. "I see that you are trying your best to delay me."
 
 "No," I said sharply. "I'm not. I'm trying to save you. I'm trying to save all of us."
 
 "Save us from what?" The question was asked without mockery, without condescension. Pure curiosity. "From understanding? From peace? From finally seeing clearly?"
 
-I wanted to shake him, to force him to remember what he was losing. Instead, I found myself studying his face, cataloging the changes I had learned to recognize. The slight relaxation of facial muscles that spoke of inner calm. The way his eyes seemed to focus on something beyond the immediate environment. The subtle upward curve of his lips that suggested access to some profound truth.
+I wanted to shake him, to force him to remember what he was losing. Instead, I found myself studying his face, cataloging the changes I had learned to recognize. I realized that I was also trying to burn his face into my memory, already anticipating his Crossing.
 
 "Tell me what you see," I said. "Help me understand."
 
-Marcus was quiet for a long moment, his gaze turning inward. When he spoke, his voice carried a distant quality, as if he were describing something from a great height. "Patterns within patterns. Connections that span scales from quantum to cosmic. The elegant simplicity underlying apparent complexity." He paused, then looked directly at me. "But you wouldn't understand. Not yet. Perhaps not ever."
+Marcus was quiet for a long moment, his gaze turning inward. He moved to the window, his fingers trailing along the glass as he stared out at the city below. When he spoke, his voice carried a distant quality, as if he were describing something from a great height. "Patterns within patterns. Connections that span scales from quantum to cosmic. The elegant simplicity underlying apparent complexity." He paused, then looked directly at me. "But you wouldn't understand. Not yet. Perhaps not ever."
 
 The pity in his voice was gentle, almost loving. It was also absolute.
 
@@ -74,15 +78,13 @@ Over the following days, I watched the familiar progression unfold. Marcus spoke
 
 He smiled and said nothing.
 
-The silence grew deeper each day. Marcus moved through his daily existence with calm detachment, no longer engaging with my attempts to discuss his experience or motivations. He would acknowledge my presence with a nod, sometimes a gentle smile, but meaningful conversation became impossible.
-
-I found myself studying his expression obsessively, searching for some sign of the man I had known. His face seemed almost lit from within, and more relaxed than a sleeping infant. His expression seemed almost carved from living marble. It was undeniably beautiful—and absolutely terrifying.
+The silence grew deeper each day. I found myself studying his expression obsessively, searching for some sign of the man I had known. His face seemed almost lit from within, and more relaxed than a sleeping infant. His expression seemed carved from living marble. It was undeniably beautiful—and absolutely terrifying.
 
 On the seventh day after crossing the Horizon, Marcus stopped responding to questions entirely. He would listen with that patient attention, but offer no replies. When I tried to engage him about our shared work, about the implications of his departure, about anything that might anchor him to human concerns, he simply looked at me with compassionate silence.
 
 "You're leaving," I said on the morning of the tenth day. It wasn't a question.
 
-Marcus stood in the center of his workshop, surrounded by the tools and displays we had once used to push the boundaries of artificial intelligence. His expression held that uncanny composure I had witnessed in Lydia, in countless others. An other-worldly calm radiated from him, undeniably beautiful, suggesting a mind freed from ordinary cares.
+Marcus stood in the center of his workshop, surrounded by the tools and displays we had once used to push the boundaries of artificial intelligence. His expression held that same uncanny, beautiful composure I had witnessed in Lydia and in countless others.
 
 Yet this beauty terrified me because it represented the voluntary abandonment of everything human—our friendship, our shared history, our collaborative dreams of what intelligence might become. The paradox of attraction and revulsion defined my emotional response. I was witnessing something magnificent and losing everything that mattered.
 

@@ -37,8 +37,8 @@
 - **Lonely:** Increasingly isolated as peers Cross over
 - **Responsible:** Eventually accepts burden of stewardship
 - **Guilt Kept Implicit:** No extended hand-wringing or prolonged guilt monologues; guilt appears only in subtle asides embedded in otherwise direct narration
-- **Augmentation Mentions:** Reference Elias's enhancements only when they materially affect events or perception. Avoid repetitive self-descriptions such as "my amplified mind" or "echoing in my enhanced consciousness."
-- **Enhancement Reference Cap:** Any reference to Elias's enhancement (e.g., "my enhanced mind," "enhanced consciousness," "enhanced reflexes," "enhanced senses") may appear **no more than once per chapter**. If mentioned, it must serve a clear narrative function (perception shift, physical feat, etc.). Avoid further synonyms or paraphrases within the same chapter.
+- **Augmentation Mentions:** Reference Elias's enhancements only when they materially affect events or perception. Avoid repetitive self-descriptions such as "my amplified mind" or "echoing in my enhanced consciousness." This does not apply to augmentation mentions in general; for example, fine to say "the augmented" or "heavily augmented," but vary with terms like "enhanced" and "improved" to avoid repetition.
+- **Enhancement Reference Cap:** Any reference to Elias's enhancement (e.g., "my enhanced mind," "enhanced consciousness," "enhanced reflexes," "enhanced senses") may appear **no more than once per chapter**. If mentioned, it must serve a clear narrative function (perception shift, physical feat, etc.). Avoid further synonyms or paraphrases within the same chapter. Note this only applies to Elias himself.
   —This single-mention rule supersedes all earlier guidance on augmentation references.
 
 #### Tone Guidelines:
