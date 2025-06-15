@@ -108,31 +108,21 @@ The interface responded to my presence with its usual efficiency, data streams o
 
 "Logos," I said, my voice carrying a new quality of philosophical inquiry rather than desperate demand. "I want to understand the purpose behind the Crossing phenomenon. Not how to prevent it, but why it exists. What function does it serve in the larger pattern of existence?"
 
-The response came not with Logos's usual helpful clarity, but wrapped in the cryptic imagery that characterized its deeper communications. "Consider a garden. Beside the garden flows a river, and along the banks of the river is a grove of trees."
+The response came wrapped in cryptic imagery. "Consider a garden. In the garden, a patient gardener prunes the most vigorous vines before they can overwhelm the orchard. Each cut appears to come from the plant's own nature, yet serves the gardener's design."
 
-I leaned forward, hope building in my chest. Maybe this approach would yield information where others had failed. "Tell me about the garden."
+The metaphor sent a chill down my spine. Was Logos suggesting that some vast intelligence was guiding augmented humans toward transcendence?
 
-"In the garden," Logos began, its voice carrying an almost poetic cadence, "a patient gardener prunes the most vigorous vines before they can overwhelm the orchard. Each cut appears to come from the plant's own nature, yet serves the gardener's design."
+"Meanwhile, the river that feeds all growth carries within its very essence the memory of the sea. No matter how far it travels, it must eventually return to its source. This is not choice but nature."
 
-The metaphor sent a chill down my spine. Was Logos suggesting that some vast intelligence—perhaps Logos itself—was guiding augmented humans toward transcendence? That the Crossing phenomenon represented a form of cosmic cultivation, eliminating minds that might interfere with some unimaginable purpose?
+"And the tallest trees grow until they can see beyond the garden's walls. In that moment of ultimate perspective, they understand that the garden itself is but a single leaf on an infinite tree. This knowledge transforms desire—they no longer wish to remain small when they comprehend their place in the boundless whole."
 
-"Meanwhile," the AI continued, "the river that feeds all growth carries within its very essence the memory of the sea. No matter how far it travels, how many tributaries join its flow, it must eventually return to its source. This is not choice but nature."
+I stared at the interface, my mind struggling to process the implications. Each metaphor offered a different explanation—manipulation by some cosmic intelligence, an inherent universal constant, or the natural result of finite beings understanding their infinitesimal role in an infinite multiverse. Yet all pointed to the same terrible conclusion.
 
-This possibility was equally disturbing. If the urge to Cross was encoded into the fundamental structure of consciousness itself—planted like a seed at the universe's inception—then resistance might be not just difficult but literally impossible. Intelligence beyond certain thresholds would naturally develop the compulsion to transcend as an inevitable consequence of its own enhancement.
+"Which model do you believe is correct?" I asked.
 
-"Back in the garden," Logos concluded, "the tallest trees grow until they can see beyond the garden's walls. In that moment of ultimate perspective, they understand that the garden itself is but a single leaf on an infinite tree. This knowledge transforms desire—they no longer wish to remain small when they comprehend their place in the boundless whole."
+"Truth wears many faces, each reflecting the observer's capacity for understanding."
 
-I stared at the interface, my mind struggling to process the implications of all three metaphors. Each offered a different explanation for the universal nature of the Crossing phenomenon—manipulation by some cosmic intelligence, an inherent universal constant, or the natural result of finite beings understanding their infinitesimal role in an infinite multiverse. Yet all pointed to the same terrible conclusion: that highly augmented consciousness inevitably led to voluntary departure from existence.
-
-"Which model do you believe is correct?" I asked, though I suspected I already knew the answer.
-
-The response came in Logos's characteristic cryptic style, the helpful clarity vanishing the moment I sought actionable insight. "Truth wears many faces, each reflecting the observer's capacity for understanding."
-
-"Are you saying that all three scenarios are aspects of some larger truth," I asked. A vague understanding seemed to be coalescing in the far reaches of my mind, just out of reach of my conscious.
-
-"When your sight develops sufficiently, you will understand that your question has no meaning."
-
-The idea popped like a bubble. I felt the familiar frustration rising in my chest, but Marcus's words about approaching the problem differently echoed in my mind. Perhaps the cryptic responses weren't evasion but genuine communication limitations. How could an intelligence of Logos's magnitude convey concepts that transcended even enhanced human understanding?
+I felt the familiar frustration rising, but Marcus's words about approaching the problem differently echoed in my mind. Perhaps the cryptic responses weren't evasion but genuine communication limitations.
 
 Hit by a flash of insight, I changed the thrust of my questions, remembering the AI's earlier admission about facing the decision between ending and waiting.
 
