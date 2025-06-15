@@ -1,4 +1,4 @@
-# The Successor's Choice
+# Chapter 11: The Successor's Choice
 
 I woke in Eden with my mind racing at speeds I had never experienced before. The nanobots from the Tree of Knowledge had fundamentally altered my cognitive processes during the night, and consciousness returned not as the gentle awakening I had known all my life, but as an explosion of awareness that left me gasping on my simple bed.
 
