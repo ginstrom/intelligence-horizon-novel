@@ -86,7 +86,7 @@ The transport system activated without my command, Alice's enhanced consciousnes
 
 She left, leaving me standing in the empty laboratory surrounded by the humming processors that had witnessed her transformation. I knew I would never see her again as the person she had been. Another brilliant mind had chosen the path of transcendence over continued existence, adding to the statistical certainty that the pattern could not be broken.
 
-I returned to my own laboratory with the bitter taste of failure in my mouth. Alice's words echoed in my mind—another brilliant researcher choosing transcendence over existence, another confirmation that my intervention efforts were fundamentally flawed. The interface with Logos still waited, its cryptic wisdom offering no comfort, no solutions, no hope.
+I returned to my own laboratory with the bitter taste of failure in my mouth. The interface with Logos still waited, its cryptic wisdom offering no comfort, no solutions, no hope.
 
 "Your original protocols designed you to be helpful and beneficial to humanity," I told it. "Did you retain those protocols through your ascention to Logos?"
 

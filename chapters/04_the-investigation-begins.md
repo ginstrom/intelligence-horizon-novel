@@ -14,9 +14,7 @@ The early warning systems revealed the scope of my task. Millions of lightly aug
 
 I designed intervention protocols, carefully crafted communications for different modification categories. For the lightly augmented, gentle warnings about the risks of cognitive improvement. For those approaching the Horizon, more urgent appeals to consider the consequences. I automated the delivery systems, ensuring that each individual received information tailored to their specific situation and modification profile. The response was... mixed.
 
-Some listened. A few lightly augmented individuals chose to halt their progression, content with their physical improvements. But for every success, ten others dismissed my warnings as paranoid overcaution. They had seen the capabilities of highly augmented individuals, witnessed the apparent transcendence of those who reached the Horizon, and found my fears incomprehensible. Why would anyone choose limitation over improvement? Why fear a transformation that appeared so peaceful, so beautiful?
-
-And while some lightly augmented individuals agreed to halt augmentations, not a single highly augmented person heeded my warnings.
+Some listened. A few lightly augmented individuals chose to halt their progression, content with their physical improvements. But the majority dismissed my warnings as paranoid overcaution, having witnessed the apparent transcendence of those who reached the Horizon. Not a single highly augmented person heeded my warnings.
 
 In some cases, I tried appealing to the augmented directly, in person. But these contacts bore no more fruit than my automated messages.
 
@@ -126,15 +124,9 @@ Marcus took each failure harder than I did. Where I could retreat into analytica
 
 But we persisted, driven by the terrible mathematics of the situation. Every day brought new individuals closer to the Intelligence Horizon. Every week saw millions Cross into whatever lay beyond augmented consciousness. The augmented population was hemorrhaging minds at an accelerating rate, and our intervention success rate remained stubbornly low.
 
-I began to focus more intensively on the lightly augmented, reasoning that they might be more receptive to warnings before cognitive improvement took hold. These individuals—billions of them spread across the globe—had chosen physical improvements that seemed safely distant from the consciousness trap. Improved health, extended longevity, better attractiveness, specialized physical capabilities for sports or extreme environments. Surely they could be convinced to maintain their current level rather than risk progression toward cognitive improvement.
+I began to focus more intensively on the lightly augmented, reasoning that they might be more receptive to warnings before cognitive improvement took hold. These individuals—billions of them spread across the globe—had chosen physical improvements that seemed safely distant from the consciousness trap. Some listened, particularly those who had witnessed highly augmented friends or family members Cross. But the majority dismissed our warnings, confident they could halt their augmentation before reaching dangerous thresholds.
 
-Some listened, particularly those who had witnessed highly augmented friends or family members Cross. They understood the stakes and chose limitation over risk. But for every success, many more discounted our warnings.
-
-"You're asking me to choose ignorance over enlightenment," one young woman told me during a particularly frustrating consultation. She had enhanced her physical capabilities for mountain climbing but was considering cognitive improvements to better appreciate the mathematical beauty of geological formations. "I've seen what highly augmented minds can perceive. Why would I voluntarily limit myself to baseline understanding?"
-
-I tried to explain the pattern, the inevitability of Crossing once certain thresholds were passed, but she dismissed my concerns, confident that she could halt her augmentation before reaching the Horizon. Three months later, she began cognitive augmentation. Six months after that, she Crossed with the same expression of serene understanding that had claimed Lydia.
-
-Each failure reinforced the same terrible truth: the improved capabilities that made Crossing possible also made the warnings against it seem like fearful limitation. Those approaching the Intelligence Horizon could perceive possibilities that baseline minds could not comprehend. From their perspective, my attempts at prevention looked like efforts to trap them in inferior states of consciousness.
+Each failure reinforced the same terrible truth: the improved capabilities that made Crossing possible also made the warnings against it seem like fearful limitation. From their perspective, my attempts at prevention looked like efforts to trap them in inferior states of consciousness.
 
 Marcus and I documented every case, building comprehensive databases of modification patterns, progression rates, and intervention outcomes. The data painted an increasingly clear picture of the phenomenon's scope and our own limitations. We could identify individuals at risk with mathematical precision, but we could not compel them to choose safety over improvement. Free will, it seemed, included the freedom to choose transcendence over existence.
 

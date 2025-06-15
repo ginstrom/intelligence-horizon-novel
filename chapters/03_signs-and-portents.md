@@ -18,9 +18,9 @@ I found her in our kitchen the next morning, preparing breakfast with the method
 
 "Lydia," I said, trying to keep my voice steady. "We need to talk about your upcoming procedure."
 
-She looked up from her morning routine, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves's face moments before her disappearance.
+She looked up from her morning routine, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. But for just a moment, I caught her fingers tightening around her coffee mug, knuckles briefly white before relaxing. A flicker of uncertainty crossed her features—so quick I might have imagined it—before settling into that unnerving calm. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves's face moments before her disappearance.
 
-"Of course, Elias. What concerns you?"
+"Of course, Elias. What concerns you?" she said, though I thought I heard her whisper, almost to herself, "I'm still afraid, too," before the words were swallowed by her composed demeanor.
 
 I activated a holographic display, showing her the data I had compiled through the night. Population statistics, enhancement levels, disappearance patterns—all of it pointing toward the same inescapable conclusion.
 
@@ -30,7 +30,7 @@ Lydia studied the data with rapid processing speed, brief flickers of uncertaint
 
 Instead, she nodded with calm acceptance. "Your analysis is thorough, as always. But I think you may be misinterpreting the significance of what lies beyond that boundary."
 
-"Misinterpreting?" The word came out sharper than I intended. "Lydia, these people are gone. Vanished. They've crossed a point of no return and ceased to exist in any meaningful way."
+"Misinterpreting?" The word came out sharper than I intended. "Lydia, these people are gone. Vanished."
 
 "Have they?" She turned back to her breakfast preparation, her movements still fluid and precise. "Or have they simply moved beyond the ability to communicate with those who remain below the threshold?"
 
@@ -40,7 +40,7 @@ The casual way she dismissed my concerns sent ice through my veins. This was exa
 
 Lydia paused in her work, considering my words with the same analytical detachment she might apply to any interesting but ultimately academic problem. "Risk assumes that what happens beyond the Horizon is undesirable. But what if crossing that boundary leads to a form of existence that transcends our current understanding?"
 
-"What if they've died, Lydia? What if this process is killing people? What if they're not reaching a new form of existence but dying forever?"
+"What if it's killing you?" The words came out raw, desperate. "I encouraged your first augmentations, Lydia. I convinced you to take those initial steps. If this process destroys you, then I—"
 
 She turned to face me fully, and I saw something in her expression that made my heart race with panic. It was pity. She was looking at me with the same gentle condescension one might show a child who couldn't grasp a simple concept.
 
@@ -49,6 +49,8 @@ She turned to face me fully, and I saw something in her expression that made my 
 Her words carried the weight of revelation, as if she had glimpsed some profound truth that remained hidden from my limited perspective. This was the seductive power of the Intelligence Horizon—it didn't feel like approaching death or dissolution, but like awakening to a higher form of existence. The tragedy wasn't that people were being destroyed, but that they were being transformed into something that could no longer value what they had been.
 
 That conversation marked the beginning of three weeks of increasingly desperate attempts to change her mind. I presented her with statistical analyses, case studies, theoretical frameworks—everything my intellect could devise to demonstrate the danger she was walking toward. Each argument was met with the same serene dismissal, the same suggestion that my fears were simply a failure of imagination.
+
+One afternoon, I found her standing in our living room, staring at our wedding photograph on the mantle. She looked up at me, and I saw something pass behind her eyes-recognition perhaps, or simply a pleasant memory? But then, almost before I could register what I had seen, her face relaxed back into its smooth lines.
 
 Meanwhile, reports of disappearances and vanishings continued to grow at an exponential rate. With the reports came corroboration of the features I had noticed: serene detachment, calm satisfaction.
 
@@ -74,7 +76,7 @@ She walked over to where I sat and placed her hand on my shoulder. Her touch was
 
 "Not if it means you stop being human entirely."
 
-She was quiet for a long time, and then for the barest moment I thought I saw her serene mask slipping just enough to reveal the vulnerable, questioning philosopher I had fallen in love with. But then the moment passed, and the serene mask returned.
+She was quiet for a long time, and I saw her take a half-step backward, as if my words had physically struck her. Then for the barest moment I thought I saw her serene mask slipping just enough to reveal the vulnerable, questioning philosopher I had fallen in love with. But then the moment passed, and the serene mask returned.
 
 "Perhaps," she said, "being human was never the point."
 
@@ -96,7 +98,7 @@ When I tried to engage her in conversation, her responses became increasingly br
 
 "Everything," she said simply, not turning to look at me.
 
-"Can you help me understand?"
+I remembered our first debate about consciousness, years ago, when she had argued that awareness itself might be the universe's way of understanding itself. Now she claimed to see everything, but I had lost her completely.
 
 She glanced at me with that expression of gentle pity that had become her default response to my questions. "Poor Elias," she said gently, a trace of affection surfacing beneath the detachment. "You're struggling to hold onto something beautiful but fleeting, trying desperately to grasp a truth that exists beyond the horizon you fear so much."
 

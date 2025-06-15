@@ -1,8 +1,6 @@
 # Chapter 6: The Last Hope
 
-The isolation was becoming unbearable. Fewer highly augmented individuals remained each week, and even the lightly augmented showed concerning progression patterns as some chose to enhance further. My ability to communicate meaningfully with baseline humans had deteriorated as my memory of the baseline experience faded. They seemed like children now—beautiful, innocent, but fundamentally limited in ways that made genuine connection impossible.
-
-Only Marcus remained. My last colleague, my final link to the research partnership that had once felt capable of solving any problem. His principled resistance to augmentation had made him my anchor in a world where everyone else was drifting toward transcendence.
+The isolation was becoming unbearable. Only Marcus remained—my last colleague, my final link to the research partnership that had once felt capable of solving any problem. His principled resistance to augmentation had made him my anchor in a world where everyone else was drifting toward transcendence.
 
 I activated the transport system and translated across the city to Marcus's home, hoping to find some comfort in his continued presence, some reassurance that at least one person would resist the pull that had claimed everyone else I had ever known.
 
