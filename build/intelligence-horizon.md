@@ -1,19 +1,3 @@
-© 2025
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
-
-For more information about this license, visit: https://creativecommons.org/licenses/by-sa/4.0/
-
-
-
 # Chapter 1: The Memory of Loss
 
 The memory that haunts me most is not her death, but her smile. For just an instant, as my wife stood at our door that final morning, I thought I saw something flicker in her inhumanly serene eyes—love, perhaps, or simply the fading echo of who she had been. Then she was gone, vanishing into nothing, leaving only empty space where the woman I loved had stood.
@@ -1298,7 +1282,7 @@ Either way, the vigil would continue. The choice would remain available. And som
 
 
 
-# The Successor&#8217;s Choice
+# Chapter 11: The Successor&#8217;s Choice
 
 I woke in Eden with my mind racing at speeds I had never experienced before. The nanobots from the Tree of Knowledge had fundamentally altered my cognitive processes during the night, and consciousness returned not as the gentle awakening I had known all my life, but as an explosion of awareness that left me gasping on my simple bed.
 
