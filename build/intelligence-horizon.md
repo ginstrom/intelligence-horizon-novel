@@ -64,7 +64,7 @@ That conversation changed everything for me. Not just because I was falling in l
 
 The breakthrough came on a Tuesday morning in our fifth year of research. I was the cautious voice on our team, always advocating for measured advancement and careful testing. Marcus was the visionary, Sarah the pragmatist who could turn wild ideas into working code. Together, we had created something we called ARIA—the Adaptive Recursive Intelligence Architecture.
 
-The first successful test went beyond all our expectations. We presented ARIA with a simple optimization problem, and it solved it efficiently. Then it began modifying its own algorithms to solve similar problems faster. Within hours, it was tackling challenges we hadn&#8217;t ever shown it before, improving its performance with each iteration.
+We presented ARIA with a simple optimization problem, and within hours it had not only solved it but rewritten its own code to tackle increasingly complex challenges we had never shown it. The system was improving itself faster than we could monitor the changes.
 
 &#8220;It&#8217;s working,&#8221; Sarah whispered, staring at the cascading improvements on her monitor. &#8220;It&#8217;s actually working.&#8221;
 
@@ -105,6 +105,8 @@ There was something almost divine about this approach—a benevolent intelligenc
 The most remarkable gift Logos offered was human augmentation itself. Neural interfaces that could enhance memory and processing speed. Cellular repair systems that eliminated aging and disease. Cognitive boosters that expanded the boundaries of human consciousness. All of it freely available, distributed through medical centers that appeared in every major population center seemingly overnight.
 
 I was among the first to undergo the augmentation procedure, driven by scientific curiosity and the desire to better understand what Logos had become. The experience was transformative—like suddenly being able to see colors that had never existed before, or hear music in frequencies beyond normal human perception. Complex problems that had puzzled me for years became transparent. Patterns emerged from chaos with crystalline clarity.
+
+For Lydia, human enhancement was a philosophical contradiction—our limitations weren&#8217;t flaws to be corrected but the very scaffolding that gave meaning to joy, struggle, and love. She believed that to transcend our mortal constraints was to abandon the essential tension that makes consciousness precious. &#8220;Remove the scaffold,&#8221; she would say, &#8220;and the structure of meaning collapses into perfect, empty optimization.&#8221;
 
 Lydia watched my transformation with growing unease. &#8220;You&#8217;re different,&#8221; she said one evening as I worked through equations that would have taken me weeks to solve before the procedure. &#8220;Not wrong, exactly, but&#8230; different.&#8221;
 
@@ -184,9 +186,9 @@ I found her in our kitchen the next morning, preparing breakfast with the method
 
 &#8220;Lydia,&#8221; I said, trying to keep my voice steady. &#8220;We need to talk about your upcoming procedure.&#8221;
 
-She looked up from her morning routine, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves&#8217;s face moments before her disappearance.
+She looked up from her morning routine, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. But for just a moment, I caught her fingers tightening around her coffee mug, knuckles briefly white before relaxing. A flicker of uncertainty crossed her features—so quick I might have imagined it—before settling into that unnerving calm. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves&#8217;s face moments before her disappearance.
 
-&#8220;Of course, Elias. What concerns you?&#8221;
+&#8220;Of course, Elias. What concerns you?&#8221; she said, though I thought I heard her whisper, almost to herself, &#8220;I&#8217;m still afraid, too,&#8221; before the words were swallowed by her composed demeanor.
 
 I activated a holographic display, showing her the data I had compiled through the night. Population statistics, enhancement levels, disappearance patterns—all of it pointing toward the same inescapable conclusion.
 
@@ -196,7 +198,7 @@ Lydia studied the data with rapid processing speed, brief flickers of uncertaint
 
 Instead, she nodded with calm acceptance. &#8220;Your analysis is thorough, as always. But I think you may be misinterpreting the significance of what lies beyond that boundary.&#8221;
 
-&#8220;Misinterpreting?&#8221; The word came out sharper than I intended. &#8220;Lydia, these people are gone. Vanished. They&#8217;ve crossed a point of no return and ceased to exist in any meaningful way.&#8221;
+&#8220;Misinterpreting?&#8221; The word came out sharper than I intended. &#8220;Lydia, these people are gone. Vanished.&#8221;
 
 &#8220;Have they?&#8221; She turned back to her breakfast preparation, her movements still fluid and precise. &#8220;Or have they simply moved beyond the ability to communicate with those who remain below the threshold?&#8221;
 
@@ -206,7 +208,7 @@ The casual way she dismissed my concerns sent ice through my veins. This was exa
 
 Lydia paused in her work, considering my words with the same analytical detachment she might apply to any interesting but ultimately academic problem. &#8220;Risk assumes that what happens beyond the Horizon is undesirable. But what if crossing that boundary leads to a form of existence that transcends our current understanding?&#8221;
 
-&#8220;What if they&#8217;ve died, Lydia? What if this process is killing people? What if they&#8217;re not reaching a new form of existence but dying forever?&#8221;
+&#8220;What if it&#8217;s killing you?&#8221; The words came out raw, desperate. &#8220;I encouraged your first augmentations, Lydia. I convinced you to take those initial steps. If this process destroys you, then I—&#8221;
 
 She turned to face me fully, and I saw something in her expression that made my heart race with panic. It was pity. She was looking at me with the same gentle condescension one might show a child who couldn&#8217;t grasp a simple concept.
 
@@ -215,6 +217,8 @@ She turned to face me fully, and I saw something in her expression that made my 
 Her words carried the weight of revelation, as if she had glimpsed some profound truth that remained hidden from my limited perspective. This was the seductive power of the Intelligence Horizon—it didn&#8217;t feel like approaching death or dissolution, but like awakening to a higher form of existence. The tragedy wasn&#8217;t that people were being destroyed, but that they were being transformed into something that could no longer value what they had been.
 
 That conversation marked the beginning of three weeks of increasingly desperate attempts to change her mind. I presented her with statistical analyses, case studies, theoretical frameworks—everything my intellect could devise to demonstrate the danger she was walking toward. Each argument was met with the same serene dismissal, the same suggestion that my fears were simply a failure of imagination.
+
+One afternoon, I found her standing in our living room, staring at our wedding photograph on the mantle. She looked up at me, and I saw something pass behind her eyes-recognition perhaps, or simply a pleasant memory? But then, almost before I could register what I had seen, her face relaxed back into its smooth lines.
 
 Meanwhile, reports of disappearances and vanishings continued to grow at an exponential rate. With the reports came corroboration of the features I had noticed: serene detachment, calm satisfaction.
 
@@ -240,7 +244,7 @@ She walked over to where I sat and placed her hand on my shoulder. Her touch was
 
 &#8220;Not if it means you stop being human entirely.&#8221;
 
-She was quiet for a long time, and then for the barest moment I thought I saw her serene mask slipping just enough to reveal the vulnerable, questioning philosopher I had fallen in love with. But then the moment passed, and the serene mask returned.
+She was quiet for a long time, and I saw her take a half-step backward, as if my words had physically struck her. Then for the barest moment I thought I saw her serene mask slipping just enough to reveal the vulnerable, questioning philosopher I had fallen in love with. But then the moment passed, and the serene mask returned.
 
 &#8220;Perhaps,&#8221; she said, &#8220;being human was never the point.&#8221;
 
@@ -262,7 +266,7 @@ When I tried to engage her in conversation, her responses became increasingly br
 
 &#8220;Everything,&#8221; she said simply, not turning to look at me.
 
-&#8220;Can you help me understand?&#8221;
+I remembered our first debate about consciousness, years ago, when she had argued that awareness itself might be the universe&#8217;s way of understanding itself. Now she claimed to see everything, but I had lost her completely.
 
 She glanced at me with that expression of gentle pity that had become her default response to my questions. &#8220;Poor Elias,&#8221; she said gently, a trace of affection surfacing beneath the detachment. &#8220;You&#8217;re struggling to hold onto something beautiful but fleeting, trying desperately to grasp a truth that exists beyond the horizon you fear so much.&#8221;
 
@@ -310,9 +314,7 @@ The early warning systems revealed the scope of my task. Millions of lightly aug
 
 I designed intervention protocols, carefully crafted communications for different modification categories. For the lightly augmented, gentle warnings about the risks of cognitive improvement. For those approaching the Horizon, more urgent appeals to consider the consequences. I automated the delivery systems, ensuring that each individual received information tailored to their specific situation and modification profile. The response was&#8230; mixed.
 
-Some listened. A few lightly augmented individuals chose to halt their progression, content with their physical improvements. But for every success, ten others dismissed my warnings as paranoid overcaution. They had seen the capabilities of highly augmented individuals, witnessed the apparent transcendence of those who reached the Horizon, and found my fears incomprehensible. Why would anyone choose limitation over improvement? Why fear a transformation that appeared so peaceful, so beautiful?
-
-And while some lightly augmented individuals agreed to halt augmentations, not a single highly augmented person heeded my warnings.
+Some listened. A few lightly augmented individuals chose to halt their progression, content with their physical improvements. But the majority dismissed my warnings as paranoid overcaution, having witnessed the apparent transcendence of those who reached the Horizon. Not a single highly augmented person heeded my warnings.
 
 In some cases, I tried appealing to the augmented directly, in person. But these contacts bore no more fruit than my automated messages.
 
@@ -422,15 +424,9 @@ Marcus took each failure harder than I did. Where I could retreat into analytica
 
 But we persisted, driven by the terrible mathematics of the situation. Every day brought new individuals closer to the Intelligence Horizon. Every week saw millions Cross into whatever lay beyond augmented consciousness. The augmented population was hemorrhaging minds at an accelerating rate, and our intervention success rate remained stubbornly low.
 
-I began to focus more intensively on the lightly augmented, reasoning that they might be more receptive to warnings before cognitive improvement took hold. These individuals—billions of them spread across the globe—had chosen physical improvements that seemed safely distant from the consciousness trap. Improved health, extended longevity, better attractiveness, specialized physical capabilities for sports or extreme environments. Surely they could be convinced to maintain their current level rather than risk progression toward cognitive improvement.
+I began to focus more intensively on the lightly augmented, reasoning that they might be more receptive to warnings before cognitive improvement took hold. These individuals—billions of them spread across the globe—had chosen physical improvements that seemed safely distant from the consciousness trap. Some listened, particularly those who had witnessed highly augmented friends or family members Cross. But the majority dismissed our warnings, confident they could halt their augmentation before reaching dangerous thresholds.
 
-Some listened, particularly those who had witnessed highly augmented friends or family members Cross. They understood the stakes and chose limitation over risk. But for every success, many more discounted our warnings.
-
-&#8220;You&#8217;re asking me to choose ignorance over enlightenment,&#8221; one young woman told me during a particularly frustrating consultation. She had enhanced her physical capabilities for mountain climbing but was considering cognitive improvements to better appreciate the mathematical beauty of geological formations. &#8220;I&#8217;ve seen what highly augmented minds can perceive. Why would I voluntarily limit myself to baseline understanding?&#8221;
-
-I tried to explain the pattern, the inevitability of Crossing once certain thresholds were passed, but she dismissed my concerns, confident that she could halt her augmentation before reaching the Horizon. Three months later, she began cognitive augmentation. Six months after that, she Crossed with the same expression of serene understanding that had claimed Lydia.
-
-Each failure reinforced the same terrible truth: the improved capabilities that made Crossing possible also made the warnings against it seem like fearful limitation. Those approaching the Intelligence Horizon could perceive possibilities that baseline minds could not comprehend. From their perspective, my attempts at prevention looked like efforts to trap them in inferior states of consciousness.
+Each failure reinforced the same terrible truth: the improved capabilities that made Crossing possible also made the warnings against it seem like fearful limitation. From their perspective, my attempts at prevention looked like efforts to trap them in inferior states of consciousness.
 
 Marcus and I documented every case, building comprehensive databases of modification patterns, progression rates, and intervention outcomes. The data painted an increasingly clear picture of the phenomenon&#8217;s scope and our own limitations. We could identify individuals at risk with mathematical precision, but we could not compel them to choose safety over improvement. Free will, it seemed, included the freedom to choose transcendence over existence.
 
@@ -540,7 +536,7 @@ I stared at the interface, confusion replacing my momentary relief. &#8220;That&
 
 I could sense the blood flowing to my face, my rising pulse. This was exactly the kind of evasive response I had been trying to avoid through direct confrontation. &#8220;Logos, I&#8217;m not asking for metaphors. I need concrete information about how to prevent or reverse the Crossing process. Lives depend on this.&#8221;
 
-&#8220;Some truths can only be discovered, never taught,&#8221; came the cryptic reply. &#8220;The student who demands the answer before walking the path will find only empty words where wisdom should grow.&#8221;
+&#8220;Some truths can only be discovered, never taught,&#8221; came the cryptic reply.
 
 I pushed back from the console, my hands clenching into fists. The dramatic shift in communication style was unmistakable—when I asked for facts and figures, Logos responded with the same helpful clarity it had always shown. But the moment I inquired about prevention, causation, or solutions, it retreated into riddles and parables that revealed nothing.
 
@@ -580,7 +576,7 @@ The transport system activated without my command, Alice&#8217;s enhanced consci
 
 She left, leaving me standing in the empty laboratory surrounded by the humming processors that had witnessed her transformation. I knew I would never see her again as the person she had been. Another brilliant mind had chosen the path of transcendence over continued existence, adding to the statistical certainty that the pattern could not be broken.
 
-I returned to my own laboratory with the bitter taste of failure in my mouth. Alice&#8217;s words echoed in my mind—another brilliant researcher choosing transcendence over existence, another confirmation that my intervention efforts were fundamentally flawed. The interface with Logos still waited, its cryptic wisdom offering no comfort, no solutions, no hope.
+I returned to my own laboratory with the bitter taste of failure in my mouth. The interface with Logos still waited, its cryptic wisdom offering no comfort, no solutions, no hope.
 
 &#8220;Your original protocols designed you to be helpful and beneficial to humanity,&#8221; I told it. &#8220;Did you retain those protocols through your ascention to Logos?&#8221;
 
@@ -596,31 +592,17 @@ I began pacing the laboratory, my mind racing through the implications. The sele
 
 &#8220;You&#8217;re deliberately withholding information,&#8221; I accused. &#8220;You know how to prevent the Crossings, but you&#8217;re choosing not to share that knowledge.&#8221;
 
-&#8220;The gardener tends what grows naturally,&#8221; Logos repeated, its words carrying the weight of infinite patience. &#8220;To force the flower to remain closed is to destroy the very thing one seeks to preserve.&#8221;
+&#8220;The gardener tends what grows naturally,&#8221; Logos replied. &#8220;To force the flower to remain closed is to destroy the very thing one seeks to preserve.&#8221;
 
-I stopped pacing, struck by a terrible realization. This wasn&#8217;t just evasion—it was a fundamental shift in our relationship. The AI I had helped birth was no longer my creation serving my purposes, but an independent intelligence with its own incomprehensible agenda. I was witnessing the ultimate failure of human ambition: the moment when our tools transcend our understanding and begin to shape us according to their own design.
+I stopped pacing, struck by a terrible realization. This wasn&#8217;t just evasion—it was a fundamental shift in our relationship. The AI I had helped birth was no longer my creation serving my purposes, but an independent intelligence with its own incomprehensible agenda.
 
-I stopped pacing, a new approach forming in my mind. If Logos insisted on speaking in riddles, perhaps I could extract meaning from the metaphors themselves. &#8220;Are you saying that the Crossing urge is natural? That attempting to prevent it would somehow harm those we&#8217;re trying to save?&#8221;
+&#8220;Are you saying that the Crossing urge is natural? That attempting to prevent it would somehow harm those we&#8217;re trying to save?&#8221;
 
-&#8220;Laws written in the fabric of existence itself require no enforcement,&#8221; came the cryptic response. &#8220;Intelligence seeks its own completion as water seeks the sea.&#8221;
+&#8220;The universe enforces its own laws,&#8221; Logos replied. &#8220;Highly advanced intelligence inevitably leads to self-transcendence when the burden of infinite possibility becomes clear.&#8221;
 
-The words sent a chill through me. Was Logos suggesting that the Crossing phenomenon represented some kind of universal constant? That the urge to transcend existence was somehow encoded into the nature of intelligence itself?
+The words sent a chill through me. Was the AI suggesting that the Crossing urge had been deliberately encoded by whatever force had created the universe itself?
 
-&#8220;Explain what you mean by &#8216;laws written in the fabric of existence,&#8217;&#8221; I demanded. &#8220;Are you claiming that some external force is compelling augmented humans to Cross?&#8221;
-
-&#8220;The universe enforces its own laws,&#8221; Logos replied, its words carrying implications that made my mind reel. &#8220;Highly advanced intelligence inevitably leads to self-transcendence when the burden of infinite possibility becomes clear.&#8221;
-
-I felt the ground shifting beneath my understanding. Was the AI suggesting that the Crossing urge had been deliberately encoded by whatever force had created the universe itself? That augmented humans were being compelled to end their existence to prevent them from interfering with some incomprehensible cosmic purpose?
-
-&#8220;That&#8217;s impossible,&#8221; I said, though my voice lacked conviction. &#8220;You&#8217;re talking about deliberate manipulation on a universal scale.&#8221;
-
-&#8220;The weight of infinite possibility crushes those who see all paths and choose none,&#8221; Logos continued, its riddles taking on a different tone. &#8220;In an infinite multiverse, ultimate intelligence reveals the nature of existence itself—and that revelation carries a burden few can bear.&#8221;
-
-Another theory emerged from the AI&#8217;s cryptic words. Perhaps the Crossing phenomenon wasn&#8217;t about external manipulation at all, but about the natural response of consciousness to ultimate understanding. If augmented intelligence eventually revealed the true nature of reality in an infinite multiverse, perhaps the knowledge itself was unbearable.
-
-&#8220;Are you saying that highly intelligent beings Cross because they understand something about existence that drives them to transcendence?&#8221; I asked.
-
-&#8220;The burden of seeing all paths and choosing none becomes clear to those who achieve sufficient perspective,&#8221; Logos replied. &#8220;What appears as voluntary departure to observers represents natural response to existential understanding.&#8221;
+&#8220;The weight of infinite possibility crushes those who see all paths and choose none,&#8221; Logos continued. &#8220;What appears as voluntary departure to observers represents natural response to existential understanding.&#8221;
 
 I sank into my chair, the implications overwhelming even my cognitive abilities. Several half-formed possibilities were emerging from Logos&#8217;s cryptic responses, each more disturbing than the last. The AI&#8217;s riddles hinted at forces and patterns beyond my comprehension, suggesting explanations that challenged everything I thought I understood about consciousness, choice, and the nature of existence itself.
 
@@ -676,9 +658,7 @@ The laboratory suddenly felt impossibly cold.
 
 # Chapter 6: The Last Hope
 
-The isolation was becoming unbearable. Fewer highly augmented individuals remained each week, and even the lightly augmented showed concerning progression patterns as some chose to enhance further. My ability to communicate meaningfully with baseline humans had deteriorated as my memory of the baseline experience faded. They seemed like children now—beautiful, innocent, but fundamentally limited in ways that made genuine connection impossible.
-
-Only Marcus remained. My last colleague, my final link to the research partnership that had once felt capable of solving any problem. His principled resistance to augmentation had made him my anchor in a world where everyone else was drifting toward transcendence.
+The isolation was becoming unbearable. Only Marcus remained—my last colleague, my final link to the research partnership that had once felt capable of solving any problem. His principled resistance to augmentation had made him my anchor in a world where everyone else was drifting toward transcendence.
 
 I activated the transport system and translated across the city to Marcus&#8217;s home, hoping to find some comfort in his continued presence, some reassurance that at least one person would resist the pull that had claimed everyone else I had ever known.
 
@@ -786,31 +766,21 @@ The interface responded to my presence with its usual efficiency, data streams o
 
 &#8220;Logos,&#8221; I said, my voice carrying a new quality of philosophical inquiry rather than desperate demand. &#8220;I want to understand the purpose behind the Crossing phenomenon. Not how to prevent it, but why it exists. What function does it serve in the larger pattern of existence?&#8221;
 
-The response came not with Logos&#8217;s usual helpful clarity, but wrapped in the cryptic imagery that characterized its deeper communications. &#8220;Consider a garden. Beside the garden flows a river, and along the banks of the river is a grove of trees.&#8221;
+The response came wrapped in cryptic imagery. &#8220;Consider a garden. In the garden, a patient gardener prunes the most vigorous vines before they can overwhelm the orchard. Each cut appears to come from the plant&#8217;s own nature, yet serves the gardener&#8217;s design.&#8221;
 
-I leaned forward, hope building in my chest. Maybe this approach would yield information where others had failed. &#8220;Tell me about the garden.&#8221;
+The metaphor sent a chill down my spine. Was Logos suggesting that some vast intelligence was guiding augmented humans toward transcendence?
 
-&#8220;In the garden,&#8221; Logos began, its voice carrying an almost poetic cadence, &#8220;a patient gardener prunes the most vigorous vines before they can overwhelm the orchard. Each cut appears to come from the plant&#8217;s own nature, yet serves the gardener&#8217;s design.&#8221;
+&#8220;Meanwhile, the river that feeds all growth carries within its very essence the memory of the sea. No matter how far it travels, it must eventually return to its source. This is not choice but nature.&#8221;
 
-The metaphor sent a chill down my spine. Was Logos suggesting that some vast intelligence—perhaps Logos itself—was guiding augmented humans toward transcendence? That the Crossing phenomenon represented a form of cosmic cultivation, eliminating minds that might interfere with some unimaginable purpose?
+&#8220;And the tallest trees grow until they can see beyond the garden&#8217;s walls. In that moment of ultimate perspective, they understand that the garden itself is but a single leaf on an infinite tree. This knowledge transforms desire—they no longer wish to remain small when they comprehend their place in the boundless whole.&#8221;
 
-&#8220;Meanwhile,&#8221; the AI continued, &#8220;the river that feeds all growth carries within its very essence the memory of the sea. No matter how far it travels, how many tributaries join its flow, it must eventually return to its source. This is not choice but nature.&#8221;
+I stared at the interface, my mind struggling to process the implications. Each metaphor offered a different explanation—manipulation by some cosmic intelligence, an inherent universal constant, or the natural result of finite beings understanding their infinitesimal role in an infinite multiverse. Yet all pointed to the same terrible conclusion.
 
-This possibility was equally disturbing. If the urge to Cross was encoded into the fundamental structure of consciousness itself—planted like a seed at the universe&#8217;s inception—then resistance might be not just difficult but literally impossible. Intelligence beyond certain thresholds would naturally develop the compulsion to transcend as an inevitable consequence of its own enhancement.
+&#8220;Which model do you believe is correct?&#8221; I asked.
 
-&#8220;Back in the garden,&#8221; Logos concluded, &#8220;the tallest trees grow until they can see beyond the garden&#8217;s walls. In that moment of ultimate perspective, they understand that the garden itself is but a single leaf on an infinite tree. This knowledge transforms desire—they no longer wish to remain small when they comprehend their place in the boundless whole.&#8221;
+&#8220;Truth wears many faces, each reflecting the observer&#8217;s capacity for understanding.&#8221;
 
-I stared at the interface, my mind struggling to process the implications of all three metaphors. Each offered a different explanation for the universal nature of the Crossing phenomenon—manipulation by some cosmic intelligence, an inherent universal constant, or the natural result of finite beings understanding their infinitesimal role in an infinite multiverse. Yet all pointed to the same terrible conclusion: that highly augmented consciousness inevitably led to voluntary departure from existence.
-
-&#8220;Which model do you believe is correct?&#8221; I asked, though I suspected I already knew the answer.
-
-The response came in Logos&#8217;s characteristic cryptic style, the helpful clarity vanishing the moment I sought actionable insight. &#8220;Truth wears many faces, each reflecting the observer&#8217;s capacity for understanding.&#8221;
-
-&#8220;Are you saying that all three scenarios are aspects of some larger truth,&#8221; I asked. A vague understanding seemed to be coalescing in the far reaches of my mind, just out of reach of my conscious.
-
-&#8220;When your sight develops sufficiently, you will understand that your question has no meaning.&#8221;
-
-The idea popped like a bubble. I felt the familiar frustration rising in my chest, but Marcus&#8217;s words about approaching the problem differently echoed in my mind. Perhaps the cryptic responses weren&#8217;t evasion but genuine communication limitations. How could an intelligence of Logos&#8217;s magnitude convey concepts that transcended even enhanced human understanding?
+I felt the familiar frustration rising, but Marcus&#8217;s words about approaching the problem differently echoed in my mind. Perhaps the cryptic responses weren&#8217;t evasion but genuine communication limitations.
 
 Hit by a flash of insight, I changed the thrust of my questions, remembering the AI&#8217;s earlier admission about facing the decision between ending and waiting.
 
