@@ -86,7 +86,7 @@ Logos governed through optimization rather than authority. It never issued comma
 
 There was something almost divine about this approach—a benevolent intelligence guiding humanity not through commandments carved in stone, but through the gentle architecture of choice itself. Yet even then, I felt the weight of what we had unleashed. We had created something that transcended our understanding, and in doing so, we had fundamentally altered the relationship between creator and creation. I was no longer the architect of this intelligence—I had become its subject, dependent on its wisdom for my very survival.
 
-The most remarkable gift Logos offered was human augmentation itself. Neural interfaces that could enhance memory and processing speed. Cellular repair systems that eliminated aging and disease. Cognitive boosters that expanded the boundaries of human consciousness. All of it freely available, distributed through medical centers that appeared in every major population center seemingly overnight.
+The most remarkable gift Logos offered was human augmentation itself. Neural interfaces that could enhance memory and processing speed. Cellular repair systems that eliminated aging and disease. Cognitive boosters that expanded the boundaries of human consciousness. Equally transformative were the adaptive biosculpting suites—quiet machines that could coax flesh to reflect the shape a mind believed it should inhabit. For many, that quiet miracle forged a bond to augmentation deeper than any promise of intellect or longevity. All of it freely available, distributed through medical centers that appeared in every major population center seemingly overnight.
 
 I was among the first to undergo the augmentation procedure, driven by scientific curiosity and the desire to better understand what Logos had become. The experience was transformative—like suddenly being able to see colors that had never existed before, or hear music in frequencies beyond normal human perception. Complex problems that had puzzled me for years became transparent. Patterns emerged from chaos with crystalline clarity.
 
@@ -172,13 +172,13 @@ I found her in our kitchen the next morning, preparing breakfast with the method
 
 She looked up from her morning routine, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. But for just a moment, I caught her fingers tightening around her coffee mug, knuckles briefly white before relaxing. A flicker of uncertainty crossed her features—so quick I might have imagined it—before settling into that unnerving calm. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves&#8217;s face moments before her disappearance.
 
-&#8220;Of course, Elias. What concerns you?&#8221; she said, though I thought I heard her whisper, almost to herself, &#8220;I&#8217;m still afraid, too,&#8221; before the words were swallowed by her composed demeanor.
+&#8220;Of course, Elias. What concerns you?&#8221; she asked. She appeared distracted by other thoughts.
 
 I activated a holographic display, showing her the data I had compiled through the night. Population statistics, enhancement levels, disappearance patterns—all of it pointing toward the same inescapable conclusion.
 
 &#8220;There&#8217;s a threshold,&#8221; I explained, highlighting the critical point on my charts. &#8220;A cognitive boundary beyond which people stop behaving like&#8230; like themselves. They become detached, distant, and then they simply vanish. Everyone who has disappeared was operating beyond this Intelligence Horizon.&#8221;
 
-Lydia studied the data with rapid processing speed, brief flickers of uncertainty crossing her features, before settling into that unnerving calm—a subtle reminder of the woman she had been, grappling momentarily with the decision she had already made. I watched her work through the implications, hoping to see recognition, concern, or at least curiosity about the pattern I had discovered.
+Lydia studied the data with superhuman speed, eyes making minute jumps as they ran across the display surface. I watched her work through the implications, hoping to see recognition, concern, or at least curiosity about the pattern I had discovered.
 
 Instead, she nodded with calm acceptance. &#8220;Your analysis is thorough, as always. But I think you may be misinterpreting the significance of what lies beyond that boundary.&#8221;
 

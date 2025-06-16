@@ -20,13 +20,13 @@ I found her in our kitchen the next morning, preparing breakfast with the method
 
 She looked up from her morning routine, and I saw something that made my chest tighten with fear. Her eyes held a quality I had never seen before—a depth that seemed to extend to infinity. But for just a moment, I caught her fingers tightening around her coffee mug, knuckles briefly white before relaxing. A flicker of uncertainty crossed her features—so quick I might have imagined it—before settling into that unnerving calm. When she smiled, it was with the same peaceful expression I had witnessed on Dr. Reeves's face moments before her disappearance.
 
-"Of course, Elias. What concerns you?" she said, though I thought I heard her whisper, almost to herself, "I'm still afraid, too," before the words were swallowed by her composed demeanor.
+"Of course, Elias. What concerns you?" she asked. She appeared distracted by other thoughts.
 
 I activated a holographic display, showing her the data I had compiled through the night. Population statistics, enhancement levels, disappearance patterns—all of it pointing toward the same inescapable conclusion.
 
 "There's a threshold," I explained, highlighting the critical point on my charts. "A cognitive boundary beyond which people stop behaving like... like themselves. They become detached, distant, and then they simply vanish. Everyone who has disappeared was operating beyond this Intelligence Horizon."
 
-Lydia studied the data with rapid processing speed, brief flickers of uncertainty crossing her features, before settling into that unnerving calm—a subtle reminder of the woman she had been, grappling momentarily with the decision she had already made. I watched her work through the implications, hoping to see recognition, concern, or at least curiosity about the pattern I had discovered.
+Lydia studied the data with superhuman speed, eyes making minute jumps as they ran across the display surface. I watched her work through the implications, hoping to see recognition, concern, or at least curiosity about the pattern I had discovered.
 
 Instead, she nodded with calm acceptance. "Your analysis is thorough, as always. But I think you may be misinterpreting the significance of what lies beyond that boundary."
 
