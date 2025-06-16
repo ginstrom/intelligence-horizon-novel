@@ -210,6 +210,92 @@ Explicitly advise translators to read dialogues aloud to ensure natural conversa
 
 ---
 
+## 4A. Dual Voice Distinction: Elias as Narrator vs. Dialogue
+
+This section provides a **concise, practical guide** for distinguishing between **Elias-as-Narrator** ("million-year-old monk") and **Elias-in-Dialogue** ("augmented middle-aged researcher").
+
+### 0. Quick Summary — Who Speaks?
+
+| Voice              | In-story identity                                 | Scene context                                                | Goal for the reader                                                 |
+| ------------------ | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **Narrator Elias** | \~1,000,000-year-old custodian, cosmic viewpoint  | Chapter frames, inner reflections, time-jumps, foreshadowing | Offer serene wisdom, widen the scale, evoke empathy & awe           |
+| **Dialogue Elias** | 40-something genius still bound to human concerns | Live scenes with Lydia, Marcus, Logos, etc.                  | Show intellect, urgency, vulnerability; drive plot moment-to-moment |
+
+### 1. English-Side Guidelines (draft & revision stage)
+
+| Element               | Narrator Elias (cosmic)                                                                                      | Dialogue Elias (mid-life)                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| **Sentence length**   | Long, measured cadences; occasional em dashes for meditative pauses                                          | Short-to-medium; quick follow-ups, interruptions allowed                                      |
+| **Diction**           | Gentle, metaphor-rich, almost liturgical ("as though stars themselves breathed")                             | Precise, technical, sometimes exasperated ("vector field variance just spiked—look at this!") |
+| **Perspective cues**  | Uses *we*, *our species*, *my younger self*; time adverbs like *across aeons*, *in the slow churn of orbits* | First-person *I*; present-tense immediacy; calendar anchors ("Tuesday, 0400")                 |
+| **Emotional palette** | Quiet compassion, humility, soft melancholy                                                                  | Frustration, excitement, protective love, sardonic humour                                     |
+| **Jargon**            | Abstracted or foot-noted; avoids brand-names                                                                 | Will name models, devices, research metrics mid-sentence                                      |
+| **Metaphor density**  | Higher; cosmic or natural imagery                                                                            | Lower; when present, uses lab or computational imagery                                        |
+
+**Revision tip:** Read a scene aloud. If you can replace *I* with *we humans* and it still flows, you're in Narrator mode. If not, you're in Dialogue mode.
+
+### 2. Japanese-Side Implementation
+
+#### 2.1 Register & Sentence Endings
+
+| Item                    | Narrator                                             | Dialogue                                               |
+| ----------------------- | ---------------------------------------------------- | ------------------------------------------------------ |
+| **基本体**                 | です／ます調 + occasional でございます                           | 常体 (だ／である) mixed with polite form when appropriate     |
+| **Sentence rhythm**     | Avg. 20–30 字, max 35 字 before comma; balanced pauses | 15–25 字, more commas OK, rhetorical questions frequent |
+| **Particles / endings** | Soft warmth: でしょう／かもしれません／のでございます                    | Direct or technical: だろう／じゃないか／ですね？                    |
+| **Switches to 抜き言葉**    | Only for rare raw emotion                            | Freer; can drop copulas mid-exclamation                |
+
+#### 2.2 Vocabulary Guidelines
+
+| Layer                    | Narrator                            | Dialogue                                                                     |
+| ------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
+| **Spiritual tone words** | 慈悲, 静謐, 永劫, でございます moments          | Rare—swap for concrete terms                                                 |
+| **Technical lingo**      | Abstracted (e.g. 神経拡張 *in general*) | Precise (高速神経接合オーバークロック, ベータ版プロトコル etc.)                                     |
+| **Loanwords**            | Minimise; use 和語 or Sino-Japanese   | Accept katakana & English inserts (パラメトリック・カーブ) to show cutting-edge culture |
+
+#### 2.3 Emotion & Body Language
+
+| Aspect            | Narrator                                             | Dialogue                                      |
+| ----------------- | ---------------------------------------------------- | --------------------------------------------- |
+| **Emotion verbs** | Replace with sensory images → "胸を掠める風のような悲しみでございます。" | Direct verbs OK → "怖いんだ。君を失うのが。"              |
+| **Gestures**      | Distant, observational: "—と私は後に悟りました。"               | Immediate stage directions: "指を机にタップしながら言った。" |
+
+### 3. 30-Second Checklist Before You Move On
+
+1. **Who is speaking?**
+   * If pondering cosmic meaning → Narrator.
+   * If reacting in-scene → Dialogue.
+
+2. **Politeness / register match?**
+   * Narrator uses です／ます and sparse でございます.
+   * Dialogue uses 常体 unless situationally polite.
+
+3. **Tech density audit**
+   * Narrator ≤ 2 hard terms per paragraph.
+   * Dialogue unlimited but keep explanations natural.
+
+4. **Metaphor audit**
+   * Narrator: metaphors may span sentences.
+   * Dialogue: keep metaphors short, field-specific.
+
+5. **Voice test**
+   * Read two adjacent passages aloud. Do they *sound* like two phases of the same life? If yes, good. If not, adjust rhythm or diction.
+
+### 4. Mini Example (EN → JP)
+
+| Mode         | English seed line                                                                                        | Japanese exemplar                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Narrator** | *I have witnessed suns bloom and wither like brief flowers, yet Lydia's smile endures beyond them all.*  | *私は幾千万の恒星が花のように咲き、そして萎れるのを見守ってまいりました。しかし——リディアの微笑みは、その儚き光よりも長く私の胸に息づいております。* |
+| **Dialogue** | "Lydia, your surgery pushes cortical throughput past my safety curve. Look at the failure distribution!" | 「リディア、その手術じゃ大脳スループットが安全域を振り切る。失敗率の分布を見てくれ！」                                  |
+
+### Integration Notes
+
+- Use this as **§4A "Dual Voice Distinction"** for quick reference during translation
+- Apply as a **living checklist**: every chapter pass, tag lines that drift out of character and realign them using the tables above
+- This framework works alongside the existing "kindly wise old monk" approach, providing specific implementation guidance for the two distinct voice modes
+
+---
+
 ## 5. Sample Transformation
 
 > **English**
@@ -259,6 +345,16 @@ Note the shift to です／ます, the pause (em-dash) for reflection, and concr
 | **Biosculpting suites** | 生体彫刻装置 | Physical modification systems |
 | **Nanobots** | ナノボット | Keep as established term |
 | **Post-scarcity** | 脱欠乏社会 | Economic system |
+
+### Critical Translation Distinctions
+
+#### "Different" - 変わる vs 違う
+**IMPORTANT**: This novel is fundamentally about transformation and transitions. When characters describe themselves or others as "different," prioritize the transformation sense (変わる) over the comparison sense (違う).
+
+- **Use 変わる/変わった**: When describing personal transformation, becoming different, or state changes
+- **Use 違う**: Only when comparing two separate entities or things
+- **Context clues**: If the character has undergone augmentation or Crossing, use 変わる forms
+- **Example**: "Different," she said softly → 「変わりました」彼女は静かに言いました
 
 ---
 

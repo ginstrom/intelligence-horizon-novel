@@ -161,6 +161,18 @@ This glossary provides standardized translations for "The Intelligence Horizon" 
 | **Fear** | 恐れ | おそれ | Respectful fear, not 怖い - physical reactions preferred |
 | **Terror** | 恐怖 | きょうふ | Intense fear - visceral descriptions more effective |
 
+### Transformation & Change Concepts
+
+| English | Japanese | Reading | Usage Notes |
+|---------|----------|---------|-------------|
+| **Different** (state change) | 変わる/変わった | かわる/かわった | **CRITICAL**: Use 変わる for transformation/becoming different, NOT 違う |
+| **Different** (comparison) | 違う | ちがう | Only for comparing two separate things |
+| **Changed** | 変わりました | かわりました | Past tense transformation - key for Crossing theme |
+| **Transformation** | 変容 | へんよう | Fundamental change of nature |
+| **Transition** | 移行 | いこう | Process of changing from one state to another |
+| **Evolution** | 進化 | しんか | Development/advancement |
+| **Metamorphosis** | 変態 | へんたい | Complete transformation (avoid due to other connotations) |
+
 ### Physical & Sensory Descriptions (Chapter 1 Additions)
 
 | English | Japanese | Reading | Usage Notes |
