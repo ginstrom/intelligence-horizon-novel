@@ -27,6 +27,11 @@ def parse_arguments():
         action="store_true",
         help="Convert straight quotes to curly quotes using smartypants"
     )
+    parser.add_argument(
+        "-d", "--chapters-dir",
+        default="chapters",
+        help="Directory containing chapter files (default: chapters)"
+    )
     return parser.parse_args()
 
 def main():
@@ -42,7 +47,7 @@ def main():
     # Get the script's directory and find the chapters directory
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
-    chapters_dir = project_root / "chapters"
+    chapters_dir = project_root / args.chapters_dir
     
     if not chapters_dir.exists():
         print(f"Error: Chapters directory not found at {chapters_dir}", file=sys.stderr)
