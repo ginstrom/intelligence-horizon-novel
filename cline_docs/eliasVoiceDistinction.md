@@ -32,11 +32,21 @@ This document provides a **quick-reference guide** for distinguishing between **
 
 ## Japanese-Side Implementation
 
+### 🚨 CRITICAL: Quote Mark Rule 🚨
+
+**ONLY change text INSIDE quotes 「」 to 常体 for Dialogue Elias**
+**NEVER change text OUTSIDE quotes - it stays です/ます for Narrator Elias**
+
+| Text Location | Voice Type | Register | Example |
+|---------------|------------|----------|---------|
+| **OUTSIDE quotes** | Narrator Elias | です/ます + でございます | 私は言いました。彼は答えました。 |
+| **INSIDE quotes 「」** | Dialogue Elias | 常体 (だ/である) | 「それは答えではない」「君を失うのが怖いんだ」 |
+
 ### Register & Sentence Endings
 
-| Item                    | Narrator                                             | Dialogue                                               |
+| Item                    | Narrator (OUTSIDE quotes)                           | Dialogue (INSIDE quotes 「」)                         |
 | ----------------------- | ---------------------------------------------------- | ------------------------------------------------------ |
-| **基本体**                 | **です／ます調 + strategic でございます (2-3 times per chapter)** | **常体 (だ／である) - plain form throughout**     |
+| **基本体**                 | **です／ます調 + strategic でございます (1-3 times per chapter)** | **常体 (だ／である) - plain form throughout**     |
 | **Sentence rhythm**     | Avg. 20–30 字, max 35 字 before comma; balanced pauses | 15–25 字, more commas OK, rhetorical questions frequent |
 | **Particles / endings** | Soft warmth: でしょう／かもしれません／のでございます                    | Direct or technical: だろう／じゃないか／ですね？                    |
 | **Switches to 抜き言葉**    | Only for rare raw emotion                            | Freer; can drop copulas mid-exclamation                |
@@ -87,6 +97,31 @@ This document provides a **quick-reference guide** for distinguishing between **
 | ------------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | **Narrator** | *I have witnessed suns bloom and wither like brief flowers, yet Lydia's smile endures beyond them all.*  | *私は幾千万の恒星が花のように咲き、そして萎れるのを見守ってまいりました。しかし——リディアの微笑みは、その儚き光よりも長く私の胸に息づいております。* |
 | **Dialogue** | "Lydia, your surgery pushes cortical throughput past my safety curve. Look at the failure distribution!" | 「リディア、その手術じゃ大脳スループットが安全域を振り切る。失敗率の分布を見てくれ！」                                  |
+
+## Visual Quote Mark Examples
+
+### ✅ CORRECT: Mixed Narrator + Dialogue
+```
+私は彼に向かって言いました。「それは答えではない。私は具体的な過程を求めているんだ」
+     ↑ です/ます (Narrator)      ↑ 常体 (Dialogue INSIDE quotes)
+```
+
+### ❌ WRONG: All same register
+```
+私は彼に向かって言った。「それは答えではありません。私は具体的な過程を求めています」
+     ↑ 常体 (WRONG for Narrator)  ↑ です/ます (WRONG for Dialogue)
+```
+
+### ✅ CORRECT: Narrator description + Dialogue
+```
+彼女はゆっくりと振り返りました。「ソーン博士、来てくださると思っていました」
+     ↑ です/ます (Narrator)        ↑ です/ます (Alice's polite speech)
+```
+
+### 🚨 CRITICAL REMINDER
+- **Text OUTSIDE quotes 「」** = Narrator Elias = です/ます + でございます
+- **Text INSIDE quotes 「」** = Dialogue Elias = 常体 (だ/である)
+- **Other characters' dialogue** = Keep their natural register (Alice uses polite form)
 
 ---
 
