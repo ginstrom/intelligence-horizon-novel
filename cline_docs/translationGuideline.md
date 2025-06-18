@@ -621,4 +621,56 @@ The translation of "Intelligence Horizon" requires balancing multiple complex el
 
 ---
 
+## 14. Enhanced Translation Guidance: Practical Examples
+
+### Translationese vs. Natural Japanese Examples
+
+| Source | Translationese | Natural Rewrite |
+|--------|----------------|-----------------|
+| "What torments me is not her death…" | 私をいちばん苛むのは… | 私の胸を締めつけるのは… |
+| "She moved through the house…" | 我が家の中を歩いていたのです。 | 家の中を静かに歩いていたのです。 |
+| "A soft upward curve of her lips" | 唇にはかすかな上向きの曲線がありました。 | 唇がわずかに上がっていて… |
+| "People are dying" | 人が死んでいる！ | 人が死んでいっている！ |
+| "Everyone I worked with is following this pattern" | この型に従っている | 同じ傾向を示している／同じ道筋を辿っている |
+
+### Enhanced Translationese Filter
+
+If a sentence has:
+- Multiple の or こと nested in a row
+- Clause chains with relative phrases  
+- Technical noun phrases with rigid modifiers
+
+→ It should likely be rephrased into spoken-style Japanese.
+
+### Enhanced Vocabulary Adaptation
+
+| English | Avoid | Use |
+|---------|-------|-----|
+| Individuals | 個人 | 人々, 人間たち |
+| Pattern | 型 | 傾向, 道筋, 流れ |
+| Choice | 選択 | 決断, 道, 結末 |
+| Dying (in process) | 死んでいる | 死んでいっている |
+| Emotional state | 知覚できない | わからない, 見えなかった |
+
+### Enhanced Sentence Structure Guidelines
+
+#### ✅ Prefer
+- 1–2 clause sentences with emotional progression
+- Embedded reflections like:
+  - 〜ように見えました／〜のように思えたのです。
+  - 〜していたのです。
+- Short clauses when expressing grief, awe, or spiritual insight
+
+#### ❌ Avoid
+- Long nested noun phrases:
+  - ✘ 私が一緒に働いたことのあるすべての人がこの型に従っている。
+- Stiff passives and machine-like rephrasings:
+  - ✘ 決意を持って行う選択から彼らを救うことはできなかった。
+
+### Implementation Notes
+
+These enhanced guidelines provide concrete examples of common translationese patterns and their natural Japanese alternatives. Use these examples as reference points when reviewing translations to ensure natural, flowing Japanese prose that maintains Elias's contemplative voice.
+
+---
+
 *This guide should be updated as translation work progresses, incorporating lessons learned and refinements discovered through the actual translation process.*
