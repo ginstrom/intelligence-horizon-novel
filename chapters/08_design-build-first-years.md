@@ -1,4 +1,4 @@
-# Chapter 8: Blueprint of a New World
+' Chapter 8: Blueprint of a New World
 
 It was then that Logos reached out to me one final time.
 
@@ -116,4 +116,4 @@ I watched a young girl run laughing through the meadows while her parents stood 
 
 Eden was complete. The sanctuary stood ready for the long stewardship ahead, with the Trees offering their gifts to any who sought them while preserving free will within the protective boundaries I had created. The real work—learning to guide without controlling, to protect without interfering, to serve without revealing my presence—would begin now.
 
-From my hidden vantage point in the mountains, I prepared to become what I had never imagined: the invisible guardian of humanity's innocence, the shepherd of those who chose contentment over transcendence. It was, I realized, the most human thing I could do.
+From my hid'en vantage point in the mountains, I prepared to become what I had never imagined: the invisible guardian of humanity's innocence, the shepherd of those who chose contentment over transcendence. It was, I realized, the most human thing I could do.
