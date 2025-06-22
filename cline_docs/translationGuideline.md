@@ -11,10 +11,18 @@ This document provides comprehensive guidelines for translating "Intelligence Ho
 2. **Maintain scientific accuracy while ensuring readability**
 3. **Balance philosophical depth with narrative flow**
 4. **Create emotional resonance across cultural boundaries**
+5. **Ensure consistency in terminology across chapters**
 
 ---
 
 ## 1. Narrative Voice: "Kindly Wise Old Monk" (慈悲深い老僧の語り)
+
+### Insights from Final Chapters
+- Consistent use of です／ます form to maintain a gentle and contemplative tone.
+- Effective breakdown of complex sentences into shorter, digestible ones.
+- Use of culturally resonant imagery and expressions to convey themes.
+- Careful handling of abstract philosophical concepts for accessibility.
+- Consistent use of established Japanese terms for key concepts.
 
 ### Voice Characteristics
 
