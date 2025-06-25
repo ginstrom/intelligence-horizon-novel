@@ -1,8 +1,8 @@
 ## Current Objective
-Revise 'chapters-ja/02_the-world-that-was.md' for style, readability, and translationese, referencing 'cline_docs/translationGuideline.md' and 'cline_docs/eliasVoiceDistinction.md', and cross-checking with the English 'chapters/02_the-world-that-was.md' to ensure the plot is not changed, just the writing style.
+Revise 'chapters-ja/03_signs-and-portents.md' for style, readability, and translationese, referencing 'cline_docs/translationGuideline.md' and 'cline_docs/eliasVoiceDistinction.md', and cross-checking with the English 'chapters/03_signs-and-portents.md' to ensure the plot is not changed, just the writing style.
 
 ## Context
-The user has requested a full stylistic and anti-translationese revision of the Japanese translation of Chapter 2, focusing on:
+The user has requested a full stylistic and anti-translationese revision of the Japanese translation of Chapter 3, focusing on:
 - Natural Japanese flow and avoidance of translationese
 - Adherence to the "kindly wise old monk" narrative voice and all stylistic, structural, and technical guidelines in 'translationGuideline.md'
 - Correct narrator/dialogue register per 'eliasVoiceDistinction.md'
