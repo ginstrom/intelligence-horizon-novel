@@ -1,8 +1,8 @@
 ## Current Objective
-Revise 'chapters-ja/05_divine-riddles.md' for style, readability, and translationese, referencing 'cline_docs/translationGuideline.md' and 'cline_docs/eliasVoiceDistinction.md', and cross-checking with the English 'chapters/05_divine-riddles.md' to ensure the plot is not changed, just the writing style.
+Revise 'chapters-ja/06_the-last-hope.md' for style, readability, and translationese, referencing 'cline_docs/translationGuideline.md' and 'cline_docs/eliasVoiceDistinction.md', and cross-checking with the English 'chapters/06_the-last-hope.md' to ensure the plot is not changed, just the writing style.
 
 ## Context
-The user has requested a full stylistic and anti-translationese revision of the Japanese translation of Chapter 5, focusing on:
+The user has requested a full stylistic and anti-translationese revision of the Japanese translation of Chapter 6, focusing on:
 - Natural Japanese flow and avoidance of translationese
 - Adherence to the "kindly wise old monk" narrative voice and all stylistic, structural, and technical guidelines in 'translationGuideline.md'
 - Correct narrator/dialogue register per 'eliasVoiceDistinction.md'
@@ -24,11 +24,11 @@ The user has requested a full stylistic and anti-translationese revision of the 
 5. Run post-translation checklist (vocab, structure, imagery, dialogue, consistency).
 6. Update documentation if significant translation lessons or workflow improvements are identified.
 
-## Detailed Plan for Chapter 5 Revision
+## Detailed Plan for Chapter 6 Revision
 
 ### 1. Preparation
-- Review 'chapters-ja/05_divine-riddles.md' for translationese, voice drift, and unnatural phrasing.
-- Cross-reference each section with 'chapters/05_divine-riddles.md' to ensure plot, nuance, and emotional beats are preserved.
+- Review 'chapters-ja/06_the-last-hope.md' for translationese, voice drift, and unnatural phrasing.
+- Cross-reference each section with 'chapters/06_the-last-hope.md' to ensure plot, nuance, and emotional beats are preserved.
 
 ### 2. Revision Guidelines
 - Apply "kindly wise old monk" narrative voice (です/ます調, 2-3 でございます per chapter, varied rhythm).
