@@ -97,6 +97,24 @@
 - **Documentation:** Structured in cline_docs/ directory
 - **Chapter Organization:** chapters/ directory
 
+### Build System
+- **Build Tool:** Makefile with multiple targets
+- **Python Environment:** Virtual environment (venv/) with dependencies
+- **Dependencies:** Managed via scripts/requirements.txt (includes smartypants for typography)
+- **Master Document Generation:** scripts/create_master.py with smart quotes support
+- **EPUB Generation:** pandoc with metadata files (metadata.yml, metadata-ja.yml)
+- **Important:** Always use virtual environment for Python scripts:
+  - Activate with: `source venv/bin/activate`
+  - Install dependencies: `make bootstrap` or `pip install -r scripts/requirements.txt`
+  - Build commands require venv activation: `source venv/bin/activate && make epub-ja`
+- **Available Targets:**
+  - `make build` - Generate English master document
+  - `make build-ja` - Generate Japanese master document
+  - `make epub` - Generate English EPUB
+  - `make epub-ja` - Generate Japanese EPUB
+  - `make bootstrap` - Set up virtual environment and dependencies
+  - `make wordcount` - Display word count statistics
+
 ### Philosophical Framework
 - **Core Question:** What happens when intelligence becomes a burden?
 - **Narrative Tension:** Free will vs. deterministic intelligence evolution
